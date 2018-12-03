@@ -1,0 +1,1349 @@
+
+
+
+	
+
+
+
+	
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+         <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">     
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+
+
+        <meta name="description" content="" /> 
+        <meta name="keywords" content="" /> 
+        <meta name="google-site-verification" content="IkSsM0IAGpvE2RejHQrIlbmss6Ws-_6zR4x4ZfTptaM" />
+
+        
+         
+
+
+	
+
+
+
+
+
+
+        <!-- Title Tag -->
+        
+
+
+	
+<title>
+    City of Chicago :: Unprecedented Coalition of Leaders Join Committee to Recruit Amazon HQ2 and 50,000 Jobs to Chicago Region
+</title>
+
+        <!-- Day Initialization -->
+        
+
+
+	
+
+        <!-- Favicon -->
+
+        <link rel="SHORTCUT ICON" href="/content/dam/city/general/favicons/favicon-32x32.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/content/dam/city/general/favicons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/content/dam/city/general/favicons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/content/dam/city/general/favicons/favicon-16x16.png">
+        <link rel="mask-icon" href="/content/dam/city/general/favicons/safari-pinned-tab.svg" color="#5bbad5">
+
+		<script type="text/javascript" src="/etc/designs/base/clientlibs/jquery.js"></script>  
+        <link rel="stylesheet" href="/etc/clientlibs/foundation/main.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/city/clientlibs.min.css" type="text/css">
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/main.min.js"></script>
+<script type="text/javascript" src="/etc/designs/city/clientlibs.min.js"></script>
+
+
+	    <script type="text/javascript" src="/etc/designs/base/clientlibs.min.js"></script>
+
+	
+
+        <link href="/etc/designs/base/MegaNavBar/assets/css/MegaNavbar.min.css" rel="stylesheet" type="text/css"/>
+        <link href="/etc/designs/base/MegaNavBar/assets/css/skins/city-top-nav-white.css" rel="stylesheet" type="text/css"/>
+		<link href="/etc/designs/base/MegaNavBar/assets/css/skins/city-department-nav-white.css" rel="stylesheet" type="text/css"/>
+		<link href="/etc/designs/city/css/theme.css" rel="stylesheet" type="text/css"/>
+
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+ $(document).ready(function() {
+ $.reject({ 
+        reject: { /*msie7: true,
+                  firefox15: true,
+                  firefox11: true,
+                  firefox7: true,
+                  firefox3: true,
+                  chrome21: true,
+                  chrome20: true,*/
+                  chrome19: true
+         }, // Reject these browsers  
+        header: 'Dear Web User:', // Header Text  
+        paragraph1: 'This web browser version may limit the quality of your visit to the City of Chicago website. The site is internally tested and best viewed with the browsers listed below, so updating to one of these versions may improve your experience.', // Paragraph 1   
+        paragraph2: 'Select an icon to get to the download page:',
+        display: ['firefox','chrome','msie'], 
+        closeCookie: true, // Once per session
+        closeMessage: ' ', // Message below close window link 
+        closeURL: '#notification'
+        
+    }); // Customized Browsers
+    return false;
+ });
+    </script>  
+
+    </head>
+
+    <body class="page-pressroomdetails">
+
+
+
+
+
+
+
+            <div  class="page-wrapper">
+                <!-- Header -->
+				<div class="container-fluid container-header" style="margin-top:0px;padding-left:0px;padding-right:0px;"> 
+					 <div class="row"> 
+						<div class="col-xs-12 page-header" style="margin-top:0px;">
+								
+
+
+	
+	 
+	
+	 
+	 
+
+	
+	
+
+	<style>
+
+
+
+		ul.ui-autocomplete { z-index:10000000; }
+		.ui-helper-hidden-accessible { display:none; } 
+		.ui-menu-item a { cursor:pointer;}
+	</style>
+
+
+
+
+	 
+
+
+
+<div class="header container-fluid site-logo" style="margin-bottom:0px;margin-top:0px; padding:10px;background-color: #0198DD">
+		<div class="row" >
+			<div class="col-xs-12 col-sm-8">
+					<div id="skip">
+						<a href="#startcontent">Skip to Main Content</a>
+					</div>
+				
+				<a href="/content/city/en.html" title="The City of Chicago's Official Site">
+                    <img class="img-responsive" src="/content/dam/city/homepage/city-logo.png" alt="The City of Chicago's Official Site"/>
+				</a>
+			</div>
+
+            <div class="xsearch col-xs-12 col-sm-4 hidden-xs"> 
+                <form action="/city/en/general/search_results.html" method="GET" name="g" style="text-align:right;margin-top:20px;">
+					<p class="search-fields"> 
+                    <input type="text" id="site-search"  placeholder="Search the City of Chicago"
+                        value="" style="color: #809DB9;width: 80%;display: inline;"
+					name="keyword" class="global-search auto-search global-search-text form-control" />
+					&nbsp;
+                     
+                        <button title="Search the City of Chicago" type="submit" value="Search" name="Go" id="Go" class="btn btn-top-search" style="padding:6px" >
+                            <i class="fa fa-search">&nbsp;&nbsp;</i>
+                        </button>
+					</p>
+
+				</form>
+			</div>
+		</div>
+     </div>
+
+<script type="text/javascript">
+
+		$(document).ready(function() {
+
+
+			$( ".auto-search" ).autocomplete({ 
+				source: "/content/city/en.SuggestProxy.html",
+				//  appendTo: ".site-search", 
+				select: function( event, ui ) {
+					// $(this).attr("value",ui.item.value);
+					 $(this).val(ui.item.value);
+					var inputId = $(this).attr("id");
+					if(inputId != "findServicesBigSearchInput" && inputId != "city-service-search-cmp") {
+						$('#site-search').val($('#site-search').val().trim());
+						if($('#keyword').length) {
+							$('#keyword').val($('#keyword').val().trim());
+						}
+						$(this).closest("form").submit();
+					}
+				}
+			});
+
+			if($('#site-search').val() == "Keyword") {
+				$('#site-search').css('color','#809DB9');
+			}
+		});
+
+		</script>
+
+		<script type="text/javascript" language="JavaScript">
+		$('#site-search').focus(function(){
+			if($(this).val() == 'Keyword') {
+				$(this).val('');
+				$(this).css('color','Black');
+			}
+		});
+
+		$('#site-search').blur(function(){
+			if($(this).val() == "") {
+				$(this).val('Keyword');
+				$(this).css('color','#809DB9');
+			} 
+		});
+		$('#Go').click(function(){
+			if($('#site-search').val() == "" || $('#site-search').val() == "Keyword") {
+				$('#site-search').focus();
+				return false;
+			}
+			$('#site-search').val($('#site-search').val().trim());  
+
+		});
+</script>
+
+
+	<!-- Main Navigation Bar -->
+	
+
+
+	
+
+
+    <div id="mobdiv" class="visible-xs"></div>
+
+  <div class="container-fluid" style="padding-left:0px;padding-right:0px">
+        <nav class="navbar city-top-nav no-border-radius xs-height75 navbar-static-top" id="main_navbar" role="navigation" style="margin-bottom:0px">
+        	<div class="container-fluid" >
+        		<!-- Brand and toggle get grouped for better mobile display -->
+        		<div class="navbar-header">
+        			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#MegaNavbarID">
+        			<span class="sr-only">Toggle navigation</span>
+        			<span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+        			</button>
+    					<form style="margin-top:7px" class="navbar-form-expanded navbar-form navbar-left visible-xs-block" role="search" action="/city/en/general/search_results.html" method="GET" name="g">
+        					<div class="input-group">
+        						<input type="text" class="form-control" data-width="80px" data-width-expanded="170px" placeholder="Search the City of Chicago" value="" name="keyword" >
+        						<span class="input-group-btn"><button class="btn btn-danger" type="submit" ><i class="fa fa-search"></i>&nbsp;</button></span>
+        					</div>
+        				</form>   		
+        		</div>
+        		<!-- Collect the nav links, forms, and other content for toggling -->
+        		<div class="collapse navbar-collapse" id="MegaNavbarID">
+
+        			<!-- regular link -->
+        			<ul class="nav navbar-nav navbar-left dropdown-onhover">
+
+                        <a href="/city/en.html" title="City of Chicago Home Page" class="navbar-link navbar-left hidden-xs"><i style="font-size:20px;margin-top:10px;" class="fa fa-home" aria-hidden="true"></i></a>
+						
+
+
+	
+
+
+			<li class="dropdown">
+				<a data-toggle="dropdown" href="javascript:;" class="dropdown-toggle" aria-expanded="true">I Want To<span class="caret"></span></a>
+					<ul class="dropdown-menu"  role="menu" >
+
+
+
+	  <li class="dropdown-right-onhover no-fix" >						
+			<a href="javascript:;" data-target="#m-apply_for" data-toggle="collapse" class="dropdown-toggle collapsed">Apply for</a>
+				<ul class="dropdown-menu collapse" id="m-apply_for">
+	
+						<li><a title="Bid Job Opportunities " href="/content/city/en/depts/dhr/provdrs/emp/svcs/apply_for_bid_opportunities-forcityofchicagoemployeesandbargaini.html">Bid Job Opportunities </a></li>
+
+						<li><a title="Building Permit (online)" href="/content/city/en/depts/bldgs/provdrs/e_plan/svcs/dynamicportal.html">Building Permit (online)</a></li>
+
+						<li><a title="Business Licenses" href="/content/city/en/depts/bacp/provdrs/bus/svcs/apply_for_a_businesslicenseonline.html">Business Licenses</a></li>
+
+						<li><a title="Chicago Housing Authority (CHA) Housing" href="/content/city/en/depts/other/provdrs/cha/svcs/find_housing_information.html">Chicago Housing Authority (CHA) Housing</a></li>
+
+						<li><a title="Internships and Volunteer Programs" href="/content/city/en/depts/dhr/provdrs/emp/svcs/internships.html">Internships and Volunteer Programs</a></li>
+
+						<li><a title="Job Opportunities at City of Chicago" href="/content/city/en/depts/dhr/provdrs/emp/svcs/city_of_chicago_jobopportunities.html">Job Opportunities at City of Chicago</a></li>
+
+						<li><a title="Link Card, Food Stamps and Medical Assistance" href="/content/city/en/depts/other/provdrs/soi/svcs/apply_for_link_cardfoodstampsandmedicalassistance.html">Link Card, Food Stamps and Medical Assistance</a></li>
+
+						<li><a title="Permit Parking Zone Lookup" href="/content/city/en/depts/other/provdrs/clerk/svcs/parking_permit_zonelookup.html">Permit Parking Zone Lookup</a></li>
+
+						<li><a title="WIC (Women Infant Children program)" href="/content/city/en/depts/cdph/provdrs/healthymothers_and_babies/svcs/apply_for_wic_.html">WIC (Women Infant Children program)</a></li>
+
+		<li class="divider"></li>
+		<li><a title="More Services" href="/city/en/svcs/iwantto.apply_for.html"><i class="fa fa-list-ul" aria-hidden="true"></i>&nbsp;More Services</a></li>
+
+	</ul>
+	</li>
+
+
+	  <li class="dropdown-right-onhover no-fix" >						
+			<a href="javascript:;" data-target="#m-check_status_of" data-toggle="collapse" class="dropdown-toggle collapsed">Check Status Of</a>
+				<ul class="dropdown-menu collapse" id="m-check_status_of">
+	
+						<li><a title="Abandoned Vehicle Complaint" href="/content/city/en/depts/streets/provdrs/traffic/svcs/abndvhclstatus.html">Abandoned Vehicle Complaint</a></li>
+
+						<li><a title="Building Permit Status" href="/content/city/en/depts/bldgs/provdrs/stand_plan/svcs/building_permit_status.html">Building Permit Status</a></li>
+
+						<li><a title="Building Violations" href="/content/city/en/depts/bldgs/provdrs/inspect/svcs/building_violationsonline.html">Building Violations</a></li>
+
+						<li><a title="Easy Building Permit Applications" href="/content/city/en/depts/bldgs/provdrs/permit_proc/svcs/applications.html">Easy Building Permit Applications</a></li>
+
+						<li><a title="HomeMod - My Application status" href="/content/city/en/depts/mopd/provdrs/hous/svcs/accessible_home_modificationprogram-ages0-5911.html">HomeMod - My Application status</a></li>
+
+						<li><a title="Parking, Red Light, or Speed Ticket(s)" href="/content/city/en/depts/fin/provdrs/parking_and_redlightcitationadministration/svcs/pay_parking_and_red-lightticketson-line.html">Parking, Red Light, or Speed Ticket(s)</a></li>
+
+						<li><a title="Permit for Business ID and Advertising Signs" href="/content/city/en/depts/dcd/provdrs/admin/svcs/business_identificationandadvertisingsigns.html">Permit for Business ID and Advertising Signs</a></li>
+
+						<li><a title="Service Request for Street Light Out" href="/content/city/en/depts/cdot/provdrs/traffic_signals_andstreetlights/svcs/bldgviolstatus.html">Service Request for Street Light Out</a></li>
+
+						<li><a title="Vacant Property" href="/content/city/en/depts/bldgs/provdrs/inspect/svcs/check_status_of_vacantproperty.html">Vacant Property</a></li>
+
+		<li class="divider"></li>
+		<li><a title="More Services" href="/city/en/svcs/iwantto.check_status_of.html"><i class="fa fa-list-ul" aria-hidden="true"></i>&nbsp;More Services</a></li>
+
+	</ul>
+	</li>
+
+
+	  <li class="dropdown-right-onhover no-fix" >						
+			<a href="javascript:;" data-target="#m-find_get" data-toggle="collapse" class="dropdown-toggle collapsed">Find/Get</a>
+				<ul class="dropdown-menu collapse" id="m-find_get">
+	
+						<li><a title="Auto Pound Locations" href="/content/city/en/depts/streets/provdrs/traffic/svcs/auto_pound_locations.html">Auto Pound Locations</a></li>
+
+						<li><a title="Bids, RFP, RFQ, RFI, Small Order" href="/content/city/en/depts/dps/provdrs/contract/svcs/current_bid_opportunities.html">Bids, RFP, RFQ, RFI, Small Order</a></li>
+
+						<li><a title="Business License Look-up" href="/content/city/en/depts/bacp/provdrs/bus/svcs/business_licenselook-up.html">Business License Look-up</a></li>
+
+						<li><a title="Chicago Building Code" href="/content/city/en/depts/bldgs/provdrs/bldg_code/svcs/chicago_buildingcodeonline.html">Chicago Building Code</a></li>
+
+						<li><a title="Drivers License or State Id" href="/content/city/en/depts/other/provdrs/soi/svcs/get_a_driver_s_licenseorastateid.html">Drivers License or State Id</a></li>
+
+						<li><a title="Free STI/HIV/AIDS Testing and Treatment" href="/content/city/en/depts/cdph/provdrs/health_services/svcs/get_yourself_evaluatedforstihivaids.html">Free STI/HIV/AIDS Testing and Treatment</a></li>
+
+						<li><a title="Permit Parking Zone Lookup" href="/content/city/en/depts/other/provdrs/clerk/svcs/parking_permit_zonelookup.html">Permit Parking Zone Lookup</a></li>
+
+						<li><a title="Vital Records from the Cook County Clerk's Office" href="/content/city/en/depts/other/provdrs/ccco/svcs/get_vital_records.html">Vital Records from the Cook County Clerk's Office</a></li>
+
+						<li><a title="Ward & Alderman by Address" href="/content/city/en/depts/other/provdrs/clerk/svcs/find_your_ward_andalderman.html">Ward & Alderman by Address</a></li>
+
+		<li class="divider"></li>
+		<li><a title="More Services" href="/city/en/svcs/iwantto.find_get.html"><i class="fa fa-list-ul" aria-hidden="true"></i>&nbsp;More Services</a></li>
+
+	</ul>
+	</li>
+
+
+	  <li class="dropdown-right-onhover no-fix" >						
+			<a href="javascript:;" data-target="#m-pay_for_buy" data-toggle="collapse" class="dropdown-toggle collapsed">Pay for/Buy</a>
+				<ul class="dropdown-menu collapse" id="m-pay_for_buy">
+	
+						<li><a title="Administrative Hearing Fines" href="/content/city/en/depts/fin/provdrs/payment_processingdivision/svcs/QuickPay.html">Administrative Hearing Fines</a></li>
+
+						<li><a title="Business License Renewal" href="/content/city/en/depts/bacp/provdrs/bus/svcs/renew_your_businesslicenseonline.html">Business License Renewal</a></li>
+
+						<li><a title="Business Taxes" href="/content/city/en/depts/fin/provdrs/tax_division/svcs/pay_and_file_yourtaxesonline.html">Business Taxes</a></li>
+
+						<li><a title="CTA Transit Customer Fare Cards" href="/content/city/en/depts/other/provdrs/cta/svcs/customer_fares_chartsandpurchasectafarecards.html">CTA Transit Customer Fare Cards</a></li>
+
+						<li><a title="Calculate the Cost of a Building Permit" href="/content/city/en/depts/bldgs/provdrs/permits/svcs/permit_fee_calculator.html">Calculate the Cost of a Building Permit</a></li>
+
+						<li><a title="City of Chicago Photography" href="/content/city/en/depts/dgs/provdrs/asset_management/svcs/purchase_city_photography.html">City of Chicago Photography</a></li>
+
+						<li><a title="Parking, Red Light, or Speed Ticket(s)" href="/content/city/en/depts/fin/provdrs/parking_and_redlightcitationadministration/svcs/pay_parking_and_red-lightticketson-line.html">Parking, Red Light, or Speed Ticket(s)</a></li>
+
+						<li><a title="Surplus, Vehicles, Auctions" href="/content/city/en/depts/dps/provdrs/auction/svcs/city_of_chicago_onlineauctions.html">Surplus, Vehicles, Auctions</a></li>
+
+						<li><a title="Vehicle and Residential Permit Parking Stickers" href="/content/city/en/depts/other/provdrs/clerk/svcs/vehicle_sticker_andresidentialpermitparkingsales.html">Vehicle and Residential Permit Parking Stickers</a></li>
+
+						<li><a title="View Automated Speed Enforcement Video" href="/content/city/en/depts/fin/provdrs/parking_and_redlightcitationadministration/svcs/view_automated_speedenforcementvideo.html">View Automated Speed Enforcement Video</a></li>
+
+		<li class="divider"></li>
+		<li><a title="More Services" href="/city/en/svcs/iwantto.pay_for_buy.html"><i class="fa fa-list-ul" aria-hidden="true"></i>&nbsp;More Services</a></li>
+
+	</ul>
+	</li>
+
+
+	  <li class="dropdown-right-onhover no-fix" >						
+			<a href="javascript:;" data-target="#m-register" data-toggle="collapse" class="dropdown-toggle collapsed">Register</a>
+				<ul class="dropdown-menu collapse" id="m-register">
+	
+						<li><a title="Discrimination Complaint" href="/content/city/en/depts/cchr/provdrs/discrim/svcs/file_a_discriminationcomplaint.html">Discrimination Complaint</a></li>
+
+						<li><a title="Dog Registration" href="/content/city/en/depts/other/provdrs/clerk/svcs/dog_registration.html">Dog Registration</a></li>
+
+						<li><a title="Extreme Weather Notification" href="/content/city/en/depts/oem/provdrs/emerg_mang/svcs/sign_up_for_extremeweathernotification.html">Extreme Weather Notification</a></li>
+
+						<li><a title="For Park District Programs" href="/content/city/en/depts/other/provdrs/cpd/svcs/register_for_parkdistrictprogramsonline.html">For Park District Programs</a></li>
+
+						<li><a title="Independent Living Skills Program" href="/content/city/en/depts/mopd/provdrs/resource/svcs/ilp-independent_livingprogram.html">Independent Living Skills Program</a></li>
+
+						<li><a title="MPEA Airport Tax" href="/content/city/en/depts/bacp/provdrs/vehic/svcs/mpea_online_permitapplicationform.html">MPEA Airport Tax</a></li>
+
+						<li><a title="Register a Cottage Food Operation" href="/content/city/en/depts/cdph/provdrs/healthy_restaurants/svcs/register_a_cottagefoodoperation.html">Register a Cottage Food Operation</a></li>
+
+						<li><a title="Vacant Building" href="/content/city/en/depts/bldgs/provdrs/inspect/svcs/check_status_of_vacantproperty.html">Vacant Building</a></li>
+
+		<li class="divider"></li>
+		<li><a title="More Services" href="/city/en/svcs/iwantto.register.html"><i class="fa fa-list-ul" aria-hidden="true"></i>&nbsp;More Services</a></li>
+
+	</ul>
+	</li>
+
+
+	  <li class="dropdown-right-onhover no-fix" >						
+			<a href="javascript:;" data-target="#m-report_file" data-toggle="collapse" class="dropdown-toggle collapsed">Report/File</a>
+				<ul class="dropdown-menu collapse" id="m-report_file">
+	
+						<li><a title="AIC (Annual Inspection Certification) Inspections" href="/content/city/en/depts/bldgs/provdrs/inspect/svcs/annual_inspectioncertificationaicprogramupdate.html">AIC (Annual Inspection Certification) Inspections</a></li>
+
+						<li><a title="Abandoned Vehicle" href="/content/city/en/depts/streets/provdrs/traffic/svcs/abandoned_vehicles.html">Abandoned Vehicle</a></li>
+
+						<li><a title="Cab Feedback" href="/content/city/en/depts/bacp/provdrs/consumer/svcs/consumer_cab_complaint.html">Cab Feedback</a></li>
+
+						<li><a title="Claim for Vehicle or Property Damage" href="/content/city/en/depts/other/provdrs/clerk/svcs/file_a_claim.html">Claim for Vehicle or Property Damage</a></li>
+
+						<li><a title="Consumer Complaint Online" href="/content/city/en/depts/bacp/provdrs/pros_adj/svcs/file_a_citizen_complaintonline.html">Consumer Complaint Online</a></li>
+
+						<li><a title="Economic Disclosure, Affidavit, Online EDS" href="/content/city/en/depts/dps/provdrs/comp/svcs/economic_disclosurestatementseds.html">Economic Disclosure, Affidavit, Online EDS</a></li>
+
+						<li><a title="Pothole in the Street" href="/content/city/en/depts/cdot/provdrs/street/svcs/report_a_pot_holeinstreet.html">Pothole in the Street</a></li>
+
+						<li><a title="Stray Animal in Neighborhood" href="/content/city/en/depts/cacc/provdrs/animal_control_andrescue/svcs/report_a_stray_animal.html">Stray Animal in Neighborhood</a></li>
+
+		<li class="divider"></li>
+		<li><a title="More Services" href="/city/en/svcs/iwantto.report_file.html"><i class="fa fa-list-ul" aria-hidden="true"></i>&nbsp;More Services</a></li>
+
+	</ul>
+	</li>
+
+
+	  <li class="dropdown-right-onhover no-fix" >						
+			<a href="javascript:;" data-target="#m-request" data-toggle="collapse" class="dropdown-toggle collapsed">Request</a>
+				<ul class="dropdown-menu collapse" id="m-request">
+	
+						<li><a title="Building Inspection" href="/content/city/en/depts/bldgs/provdrs/inspect/svcs/request_an_inspection.html">Building Inspection</a></li>
+
+						<li><a title="Garbage Cart" href="/content/city/en/depts/streets/provdrs/rodent/svcs/garbage_cart_distribution.html">Garbage Cart</a></li>
+
+						<li><a title="Graffiti Removal Services" href="/content/city/en/depts/streets/provdrs/graffiti_blasters/svcs/mayor_daley_s_graffitiblasters.html">Graffiti Removal Services</a></li>
+
+						<li><a title="Parking Ticket Photos" href="/content/city/en/depts/fin/provdrs/parking_and_redlightcitationadministration/svcs/view_parking_ticketpictures.html">Parking Ticket Photos</a></li>
+
+						<li><a title="Request a Bike Map" href="/content/city/en/depts/cdot/provdrs/bike/svcs/request_a_bike_map.html">Request a Bike Map</a></li>
+
+						<li><a title="Residential Garbage Collection" href="/content/city/en/depts/streets/provdrs/streets_san/svcs/residential_garbagecollection.html">Residential Garbage Collection</a></li>
+
+						<li><a title="View Red Light Video" href="/content/city/en/depts/fin/provdrs/parking_and_redlightcitationadministration/svcs/view_red-light_video.html">View Red Light Video</a></li>
+
+		<li class="divider"></li>
+		<li><a title="More Services" href="/city/en/svcs/iwantto.request.html"><i class="fa fa-list-ul" aria-hidden="true"></i>&nbsp;More Services</a></li>
+
+	</ul>
+	</li>
+
+
+	  <li class="dropdown-right-onhover no-fix" >						
+			<a href="javascript:;" data-target="#m-sign_up" data-toggle="collapse" class="dropdown-toggle collapsed">Sign up for/volunteer</a>
+				<ul class="dropdown-menu collapse" id="m-sign_up">
+	
+						<li><a title="Alerts from NotifyChicago" href="/content/city/en/depts/oem/provdrs/alertchicago/svcs/notifychicago.html">Alerts from NotifyChicago</a></li>
+
+						<li><a title="CAPS Brochures & Information" href="/content/city/en/depts/cpd/provdrs/police_services/svcs/caps_brochure_request.html">CAPS Brochures & Information</a></li>
+
+						<li><a title="Community Emergency Response Team (CERT)" href="/content/city/en/depts/oem/provdrs/edu/svcs/become_a_cert_volunteer.html">Community Emergency Response Team (CERT)</a></li>
+
+						<li><a title="Internships and Volunteer Programs" href="/content/city/en/depts/dhr/provdrs/emp/svcs/internships.html">Internships and Volunteer Programs</a></li>
+
+						<li><a title="One Good Deed Chicago Volunteer Opportunities" href="/content/city/en/depts/mayor/provdrs/special_prog/svcs/one_good_deed_chicago.html">One Good Deed Chicago Volunteer Opportunities</a></li>
+
+						<li><a title="Voluntary Disclosure" href="/content/city/en/depts/fin/provdrs/tax_division/svcs/apply_for_voluntarydisclosureofchicagobusinesstaxes.html">Voluntary Disclosure</a></li>
+
+		<li class="divider"></li>
+		<li><a title="More Services" href="/city/en/svcs/iwantto.sign_up.html"><i class="fa fa-list-ul" aria-hidden="true"></i>&nbsp;More Services</a></li>
+
+	</ul>
+	</li>
+
+</ul>
+</li>
+
+
+
+   
+
+
+						<!--Programs &amp; Initiatives -->
+						<li class="dropdown-grid  menu-programs">
+							<a data-toggle="dropdown" href="/city/en/progs.html" class="dropdown-toggle nav-url"><span>Programs &amp; Initiatives</span><span class="caret"></span></a>
+							<div class="dropdown-grid-wrapper">
+								<div class="dropdown-menu row col-xs-12 col-sm-6 no-shadow no-border-radius border">
+										<div class="col-xs-12 col-sm-6">
+											<ul>												
+												<li>
+													<a title="Affordable Chicago" href="/city/en/progs/affordchic.html">Affordable Chicago</a>
+													<a title="Consumer Protection" href="/city/en/progs/protect.html">Consumer Protection</a>
+													<a title="Education" href="/city/en/progs/edu.html">Education</a>
+													<a title="Environment" href="/city/en/progs/env.html">Environment</a>
+													<a title="Freedom of Information (FOIA)" href="/city/en/progs/foia.html">Freedom of Information (FOIA)</a>
+													<a title="Grants" href="/city/en/progs/grants.html">Grants</a>
+													<a title="Health &amp; Wellness" href="/city/en/progs/health.html">Health &amp; Wellness</a>
+													<a title="Housing" href="/city/en/progs/hous.html">Housing</a>
+													<a title="Inspections, Permitting &amp; Licensing" href="/city/en/progs/inspectionspermitting.html">Inspections, Permitting &amp; Licensing</a>
+												</li>
+											</ul>
+										</div>
+										
+										<div class="col-xs-12 col-sm-6">											
+											<ul>
+												<li>
+													    <a title="Jobs" href="/city/en/progs/emp.html">Jobs</a>
+														<a title="Municipal Marketing" href="/city/en/progs/municipal_marketing.html">Municipal Marketing</a>
+                                                    	<a title="One Chicago" target="blank" href="https://onechi.org/">One Chicago</a>
+														<a title="Safety" href="/city/en/progs/safety.html">Safety</a>
+                                                 	    <a title="Sustain Chicago" target="_blank" href="https://sustainchicago.cityofchicago.org/">Sustain Chicago</a>
+														<a title="Taxes" href="/city/en/progs/tax.html">Taxes</a>
+														<a title="Technology" href="/city/en/progs/tech.html">Technology</a>
+														<a title="Transparency" href="/city/en/progs/transparency.html">Transparency</a>
+														<a title="Transportation" href="/city/en/progs/trnsprt.html">Transportation</a>												<a title="Food Service Establishments" href="/city/en/ofinterest/bus/food.html">Food Service Establishments</a>
+												</li>
+											</ul>
+										</div>		
+								</div>
+							</div>
+						</li>							
+					
+						<!--Chicago Government -->
+						<li class="dropdown-full menu-departments">
+							<a data-toggle="dropdown" href="/city/en/chicagogovt.html" class="dropdown-toggle nav-url"><span>Government</span><span class="caret"></span></a>
+							<div class="dropdown-menu">
+								
+										<div class="col-xs-12 col-sm-3">
+											<ul>
+												<li class="dropdown-header">Elected Officials</li>
+											</ul>
+											<ul>
+												<li>												
+													<a title="Mayor's Office" href="/city/en/depts/mayor.html">Mayor's Office</a>
+													<a title="City Clerk and Ordinances" href="http://www.chicityclerk.com/">City Clerk</a>
+													<a title="City Treasurer" href="http://www.chicagocitytreasurer.com/">City Treasurer</a>
+													<a title="City Council, Your Ward &amp; Aldermen" href="/city/en/about/council.html">City Council (Your Ward &amp; Aldermen)</a>
+												</li>
+											</ul>
+       										<ul>
+												<li class="dropdown-header"><br>Other City Agencies</li>
+											</ul>                                     
+											<ul> 
+                                                <li>
+													<a title="" href="#"></a>
+                                                <a title="City Colleges" target="blank" href="http://www.ccc.edu">City Colleges</a>
+                                                <a title="Housing Authority (CHA)" href="/content/city/en/depts/other/provdrs/cha.html">Housing Authority (CHA)</a>
+                                                <a title="Park District" href="/content/city/en/depts/other/provdrs/cpd.html">Park District</a>
+                                                <a title="Public Building Commission" href="http://www.pbcchicago.com/" target="_blank">Public Building Commission</a>
+                                                <a title="Public Schools" href="/city/en/depts/other/provdrs/cps.html">Public Schools</a>
+                                                <a title="Transit Authority (CTA)" href="/city/en/depts/other/provdrs/cta.html">Transit Authority (CTA)</a>
+                                                <a title="Metro Pier & Exposition Authority" href="http://www.mpea.com/" target="_blank">Metro Pier & Exposition Authority</a>
+                                                </li>
+                                            </ul>
+										</div>
+										
+										<div class="col-xs-12 col-sm-9">		
+											<div class="col-xs-12 col-sm-3">
+												<ul>
+													  <li class="dropdown-header">Departments</li>
+													  <li>
+														<a title="311 City Services" href="/city/en/depts/311.html">311 City Services</a>
+														<a title="Administrative Hearings" href="/city/en/depts/ah.html">Administrative Hearings</a>
+														<a title="Animal Care &amp; Control" href="/city/en/depts/cacc.html">Animal Care &amp; Control</a>
+														<a title="Aviation" href="/city/en/depts/doa.html">Aviation</a>
+														<a title="Budget &amp; Management" href="/city/en/depts/obm.html">Budget &amp; Management</a>
+														<a title="Buildings" href="/city/en/depts/bldgs.html">Buildings</a>
+														<a title="Bus. Affairs &amp; Consumer Protection" href="/city/en/depts/bacp.html">Bus. Affairs &amp; Consumer Protection</a>                                
+														<a title="City of Chicago TV" href="/city/en/depts/tv.html">City of Chicago TV</a>
+														<a title="Civilian Office of Police Accountability" href="/city/en/depts/copa.html">Civilian Office of Police Accountability</a>
+                                                          <a title="Cultural Affairs &amp; Special Events" href="/city/en/depts/dca.html">Cultural Affairs &amp; Special Events</a>
+														<a title="Emergency Mgmt &amp; Communications" href="/city/en/depts/oem.html">Emergency Mgmt &amp; Communications</a>
+
+													</li>
+												</ul>
+											</div>
+											<div class="col-xs-12 col-sm-3">
+												<ul>
+													<li>
+														<a title="Ethics" href="/city/en/depts/ethics.html">Ethics</a>
+														<a title="Family &amp; Support Services" href="/city/en/depts/fss.html">Family &amp; Support Services</a>
+														<a title="Finance" href="/city/en/depts/fin.html">Finance</a>
+														<a title="Fire" href="/city/en/depts/cfd.html">Fire</a>
+														<a title="Fleet and Facility Management" href="/city/en/depts/dgs.html">Fleet and Facility Management</a>                                 
+														<a title="Human Relations" href="/city/en/depts/cchr.html">Human Relations</a>
+														<a title="Human Resources" href="/city/en/depts/dhr.html">Human Resources</a>
+														<a title="Innovation &amp; Technology" href="/city/en/depts/doit.html">Innovation &amp; Technology</a>
+														<a title="Inspector General" href="/city/en/depts/igo.html">Inspector General</a>
+														<a title="Law" href="/city/en/depts/dol.html">Law</a>	
+														<a title="License Appeal Commission" href="/city/en/depts/lac.html">License Appeal Commission</a>                             
+														<a title="People with Disabilities" href="/city/en/depts/mopd.html">People with Disabilities</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-xs-12 col-sm-3">
+												<ul>
+													<li>
+
+
+														<a title="Planning &amp; Development" href="/city/en/depts/dcd.html">Planning &amp; Development</a>
+														<a title="Police" href="/city/en/depts/cpd.html">Police</a>
+														<a title="Police Board" href="/city/en/depts/cpb.html">Police Board</a>
+														<a title="Procurement Services" href="/city/en/depts/dps.html">Procurement Services</a>
+														<a title="Public Health" href="/city/en/depts/cdph.html">Public Health</a>
+														<a title="Public Library" href="/city/en/depts/cpl.html">Public Library</a>
+														<a title="Streets &amp; Sanitation" href="/city/en/depts/streets.html">Streets &amp; Sanitation</a>
+														<a title="Transportation" href="/city/en/depts/cdot.html">Transportation</a>
+														<a title="Water Management" href="/city/en/depts/water.html">Water Management</a> 
+													</li>
+												</ul>
+											</div>
+											<div class="col-xs-12 col-sm-3">
+												<ul>
+													  <li class="dropdown-header">Legislation and Regulation</li>
+													  <li>
+		                                                    <a title="Municipal Code" target="blank" href="http://www.chicityclerk.com/legislation-records/municipal-code">Municipal Code</a>
+                                                            <a title="Building Code" target="blank" href="http://library.amlegal.com/nxt/gateway.dll/Illinois/chicagobuilding/buildingcodeandrelatedexcerptsofthemunic?f=templates$fn=default.htm$3.0$vid=amlegal:chicagobuilding_il">Building Code</a>
+															<a title="Zoning and Land Use Ordinance" target="blank" href="http://library.amlegal.com/nxt/gateway.dll/Illinois/chicagozoning/chicagozoningordinanceandlanduseordinanc?f=templates$fn=default.htm$3.0$vid=amlegal:chicagozoning_il">Zoning and Land Use Ordinance</a>
+                                                            <a title="Rules and Regulations" href="/city/en/depts/dol/rules-and-regulations-portal.html">Rules and Regulations</a>
+
+													 </li>
+												</ul>
+												<ul>
+													  <li class="dropdown-header"><br>Other</li>
+													  <li>
+		                                                    <a title="Employee Directory" target="blank" href="https://webapps1.cityofchicago.org/employeephonedirectory">Employee Directory</a>
+                                                          <a title="Boards & Commissions" target="blank" href="https://webapps1.cityofchicago.org/moboco/">Boards & Commissions</a>
+
+													 </li>
+												</ul>                                                
+											</div>
+
+										</div>
+							</div>
+						</li>					
+
+
+ 						<li class="dropdown-short menu-about">
+							<a data-toggle="dropdown" href="/city/en/about.html" class="dropdown-toggle nav-url"><span>About</span><span class="caret"></span></a>
+							<div class="dropdown-menu">
+
+
+									<ul>
+										<li>
+											<a title="Chicago History" href="/city/en/about/history.html">Chicago History</a>
+											<a title="Facts &amp; Statistics" href="/city/en/about/facts.html">Facts &amp; Statistics</a>
+											<a title="Attractions" href="https://www.choosechicago.com/" target="_blank">Attractions</a>
+										
+										</li>
+									</ul>
+																						
+							</div>
+						</li>	       			
+
+        				<!-- divider 
+        				<li class="divider"></li>-->
+        			</ul>
+        			<ul class="nav navbar-nav navbar-right dropdown-onhover">
+
+						<!--Translate-->
+     						<li class="dropdown-short">
+							<a data-toggle="dropdown" href="javascript:void(0);" class="dropdown-toggle"><i class="fa fa-flag"></i>&nbsp;<span class="hidden-sm hidden-md reverse">Translate</span><span class="caret"></span></a>
+							<div class="dropdown-menu">
+   								 <ul id="menu-translate">
+										<li>
+										<a href="http://translate.google.com/translate?hl=en&amp;sl=en&amp;tl=en&amp;u=https://www.cityofchicago.org/city/en.html" class="lan" title="Click to view site in English. Disclaimer: The City of Chicago is not responsible for inaccurately translated content.">English</a>
+
+										<a class="lan" href="http://translate.google.com/translate?hl=en&amp;sl=en&amp;tl=es&amp;u=https://www.cityofchicago.org/city/en.html" title="Haga clic para ver el sitio en español. Descargo de responsabilidad: La ciudad de Chicago no es responsable por el contenido traducido erróneamente.">Español</a>
+
+										<a class="lan" href="http://translate.google.com/translate?hl=en&amp;sl=en&amp;tl=zh-CN&amp;u=https://www.cityofchicago.org/city/en.html" title="Click to view site in Chinese. Disclaimer: The City of Chicago is not responsible for inaccurately translated content.">中文</a> 
+
+										<a href="http://translate.google.com/translate?hl=en&amp;sl=en&amp;tl=pl&amp;u=https://www.cityofchicago.org/city/en.html" class="lan" title="Kliknij aby zobaczyć stronę w chińskiej Zastrzeżenie: City of Chicago nie ponosi odpowiedzialności za niedokładnie przetłumaczonej treści.">Polski</a>
+
+										<a href="http://translate.google.com/translate?hl=en&amp;sl=en&amp;tl=ar&amp;u=https://www.cityofchicago.org/city/en.html" class="lan" id="arabic" title="انقر فوق لعرض في موقع المسؤولية الصينية: مدينة شيكاغو ليست مسؤولة عن محتوى ترجمة غير دقيقة.">عربي</a>
+
+
+										</li>
+									</ul>																					
+							</div>
+						</li>	      
+
+        			</ul>
+        		</div>
+        	</div>
+        </nav>
+
+    </div>
+<style>.xnavbar[class*="navbar-fixed-"] {
+    opacity: 0.75;
+    -webkit-transition: opacity 0.35s ease-in-out;
+    -moz-transition: opacity 0.35s ease-in-out;
+    transition: opacity 0.35s ease-in-out;
+}
+.xnavbar[class*="navbar-fixed-"]:hover {opacity: 1;}
+</style>
+
+<script>
+    $( window ).load(function() {
+        $(document).on('click', '.navbar .dropdown-menu', function(e) {e.stopPropagation();});
+    });
+
+    /*  $(document).ready( function() {
+      var docWidth = document.documentElement.offsetWidth;
+
+        [].forEach.call(
+          document.querySelectorAll('*'),
+          function(el) {
+            if (el.offsetWidth > docWidth) {
+              console.log(el);
+            }
+          }
+       	 );
+         });*/
+
+    </script>
+
+     <script>
+
+
+    	//Start Fix MegaNavbar on scroll page
+    	var navHeight = $('#main_navbar').offset().top;
+         //FixMegaNavbar(navHeight);
+         //$(window).bind('scroll', function() {FixMegaNavbar(navHeight);});
+
+    	function FixMegaNavbar(navHeight) {
+    	    if (!$('#main_navbar').hasClass('navbar-fixed-bottom')) {
+    	        if ($(window).scrollTop() > navHeight) {
+    	            $('#main_navbar').addClass('navbar-fixed-top')
+    	            $('body').css({'margin-top': $('#main_navbar').height()+'px'});
+    	            if ($('#main_navbar').parent('div').hasClass('container')) $('#main_navbar').children('div').addClass('container').removeClass('container-fluid');
+    	            else if ($('#main_navbar').parent('div').hasClass('container-fluid')) $('#main_navbar').children('div').addClass('container-fluid').removeClass('container');
+    	        }
+    	        else {
+    	            $('#main_navbar').removeClass('navbar-fixed-top');
+    	            $('#main_navbar').children('div').addClass('container-fluid').removeClass('container');
+    	            $('body').css({'margin-top': ''});
+    	        }
+    	    }
+    	}
+    	//End Fix MegaNavbar on scroll page
+
+    	//Next code used to prevent unexpected menu close when using some components (like accordion, tabs, forms, etc), please add the next JavaScript to your page
+    	$( window ).load(function() {
+    	    $(document).on('click', '.navbar .dropdown-menu', function(e) {e.stopPropagation();});
+    	});
+
+		$(document).ready(function() {
+
+
+            //top level menu: if it has an url and is not on mobile view, then go to the url.
+            $(".nav-url").on("click",function() {
+
+                var isMobile =  $("#mobdiv").css("display") =="block";
+                if(!isMobile) {
+					window.location = $(this).attr("href");
+                }
+            });
+
+            //handles to-top functionality
+			$("#toTop").css("display", "none");
+
+			$(window).scroll(function(){
+				if($(window).scrollTop() > 0){$("#toTop").fadeIn("slow");} else {$("#toTop").fadeOut("slow");}
+			});
+
+			$("#toTop").click(function(){
+				event.preventDefault();
+				$("html, body").animate({scrollTop:0},"slow");
+			});
+			
+			
+            //handles active menu 
+			var parts = window.location.pathname.split('/');
+			var menu="";
+
+			var path = parts[1];
+			if(path=="content") {
+				path=parts[4];
+			}else {
+
+				path=parts[3];
+			}
+			console.log(path);
+			
+			switch(path) {
+				case "progs": menu="menu-programs"; break;
+                case "progs.html": menu="menu-programs"; break;
+				case "depts": menu="menu-departments"; break;
+                case "depts.html": menu="menu-departments"; break;
+				case "ofinterest": menu="menu-people"; break;
+                case "ofinterest.html": menu="menu-people"; break;
+				case "about":menu="menu-about"; break;
+                case "about.html":menu="menu-about"; break;
+                case "chicagogovt.html":menu="menu-departments"; break;
+				default: menu=""; break;
+			}
+			if(menu!="") {
+                $("."+menu).addClass("active");
+			}
+			
+			
+		});
+
+    </script>   
+
+
+	<!-- Banner -->
+	
+
+
+	
+
+
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	   
+
+
+	
+
+
+ 
+<style >
+    .page-banner-text {
+			background-color:#013248;
+            min-height:180px;
+            padding-left:20px;
+        	font-family:'Open Sans';
+       		color:#FFFFFF;
+        	padding-top:10px;
+       		padding-bottom:10px;
+     }
+    .page-banner-text h1 {
+        text-transform:uppercase;
+        margin-top:0px;
+        font-size:320%;
+    }
+    .page-banner-text {
+            display:flex;
+            align-items: center;
+     }
+    .page-banner-text-overlay {
+            padding:5px;
+            xbackground-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+       }
+	@media (max-width: 960px) {  
+    .page-banner-text {
+			height: auto;
+   		 	padding-top: 10px;
+    		padding-bottom: 10px;
+     }
+	  .page-banner-text h1 {
+			font-size:200%;
+
+		}
+		
+		.page-banner-text h3 {
+			font-size:1em;
+        	text-align:center;
+
+		}
+
+	}
+</style>
+
+ 
+
+<div class="container-fluid page-banner-text">
+    <div class="row" style="width:100%;margin:0px;">
+            <div class="col-xs-12 col-md-6">
+                <div class="page-banner-text-overlay">
+                    <h1>Office of the Mayor</h1>
+                    <h3></h3>
+                </div>
+            </div>
+        </div>
+	</div>
+
+
+
+
+
+
+						</div>
+					</div>
+				</div>
+
+                <!-- Body of the Site -->
+				<div class="container-fluid container-body">
+					 <div class="row"> 
+						<div class="col-xs-12 page-body">	
+							
+
+
+	
+
+
+
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+<div class="container-fluid"><div class="row"><div class="col-xs-12 container-dept-menu" >
+    
+
+
+	
+
+
+
+<div class="container-fluid department-menu" style="padding-left:0px;padding-right:0px;margin-bottom:10px;margin-left:-15px;margin-right:-15px;margin-top:0px">
+        <nav class="navbar brand-right city-department no-border-radius xs-height100 navbar-static-top" id="dept_navbar" role="navigation" style="margin-bottom:0px">
+        	<div class="container-fluid" >
+        		<!-- Brand and toggle get grouped for better mobile display -->
+        		<div class="navbar-header">
+        			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#departmentNavBar">
+        			<span class="sr-only">Toggle navigation</span>
+        			<span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+        			</button>
+
+
+        		</div>
+
+        		<div class="collapse navbar-collapse" id="departmentNavBar">
+                    <ul class="nav navbar-nav navbar-left dropdown-onhover">
+
+
+                    
+
+					<!--Start Menu Items-->
+                        
+                        
+                       		 
+
+                                    <li class="Short">                          
+                                        <a data-toggle="dropdown" href="javascript:void(0);" class="dropdown-toggle"><span>Press Room</span><span class="caret"></span></a>
+                                        <div class="dropdown-menu">					
+                                                <ul>
+<li><a href="/city/en/depts/mayor/press_room/press_releases.html">Press Releases</a></li>
+</ul>    
+                                        </div>
+                                    </li>
+
+                        
+                        
+
+
+
+                      
+                        
+                       		 
+
+                                    <li class="Short">                          
+                                        <a data-toggle="dropdown" href="javascript:void(0);" class="dropdown-toggle"><span>Highlights</span><span class="caret"></span></a>
+                                        <div class="dropdown-menu">					
+                                                <ul>
+<li><a title="About the Mayor" href="/content/city/en/depts/mayor/supp_info/about_the_mayor.html" target="_self">About the Mayor</a></li>
+<li><a title="Special Programs" href="/content/city/en/depts/mayor/provdrs/special_prog.html" target="_self">Special Programs</a></li>
+<li><a title="Office of New Americans" href="/content/city/en/depts/mayor/provdrs/office_of_new_americans.html" target="_self">Office of New Americans</a></li>
+</ul>    
+                                        </div>
+                                    </li>
+
+                        
+                        
+
+
+
+                      
+                        
+                       		 
+
+                                    <li class="Short">                          
+                                        <a data-toggle="dropdown" href="javascript:void(0);" class="dropdown-toggle"><span>Partnerships</span><span class="caret"></span></a>
+                                        <div class="dropdown-menu">					
+                                                <ul>
+<li><a title="Chicago Sister Cities" href="http://www.chicagosistercities.com/" target="_blank" rel="noopener noreferrer">Chicago Sister Cities</a></li>
+<li><a title="Metropolitan Mayor's Caucus" href="http://www.mayorscaucus.org/" target="_blank" rel="noopener noreferrer">Metropolitan Mayor's Caucus</a></li>
+<li><a title="World Business Chicago" href="http://www.worldbusinesschicago.com/" target="_blank" rel="noopener noreferrer">World Business Chicago</a></li>
+<li><a title="The Great Lakes and St. Lawrence Cities Initiative" href="http://www.glslcities.org/" target="_blank" rel="noopener noreferrer">The Great Lakes and St. Lawrence Cities Initiative</a></li>
+</ul>    
+                                        </div>
+                                    </li>
+
+                        
+                        
+
+
+
+                      
+                        
+                       		 
+
+                                    <li class="Short">                          
+                                        <a data-toggle="dropdown" href="javascript:void(0);" class="dropdown-toggle"><span>Chicago Wards</span><span class="caret"></span></a>
+                                        <div class="dropdown-menu">					
+                                                <ul>
+<li><a title="View list of all 50 wards" href="/content/city/en/depts/mayor/provdrs/your_ward_and_alderman.html" target="_self">View list of all 50 wards</a></li>
+<li><a title="Find your Ward and Alderman" href="/content/city/en/depts/mayor/provdrs/your_ward_and_alderman/svcs/find_my_alderman.html" target="_self">Find your Ward and Alderman</a></li>
+</ul>    
+                                        </div>
+                                    </li>
+
+                        
+                        
+
+
+
+                      
+					<!--End Menu Items-->
+
+
+
+                    
+
+                    
+
+                    
+
+                    
+
+                         
+
+
+                                               
+
+                    </ul>
+                    
+
+                </div>
+        	</div>
+        </nav>
+
+    </div>    
+
+
+
+
+</div></div></div>
+
+
+	<div class="container-fluid one-column">
+		 <div class="row"> 
+		 	<div class="col-sm-12 page-center">	
+                 
+
+
+	
+
+
+
+
+
+
+<div class="row breadcrubms">
+	<div class="col-xs-12 hidden-xs">
+		<ol class="breadcrumb">
+<li ><a href="/content/city/en.html">Home</a></li><li ><a href="/content/city/en/depts.html">Departments</a></li><li ><a href="/content/city/en/depts/mayor.html">Office of the Mayor</a></li><li ><a href="/content/city/en/depts/mayor/press_room.html">Press Room</a></li><li ><a href="/content/city/en/depts/mayor/press_room/press_releases.html">Press Releases</a></li><li class='active'>Unprecedented Coalition of Leaders Join Committee to Recruit Amazon HQ2 and 50,000 Jobs to Chicago Region</li>
+		</ol>
+    </div>
+</div>
+
+ 
+				 
+
+
+	
+
+
+
+	
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+
+
+ 
+
+
+
+<div class="black-medium-high-title">September 27, 2017</div>
+
+<h1 class="bottom-spacing page-heading">Unprecedented Coalition of Leaders Join Committee to Recruit Amazon HQ2 and 50,000 Jobs to Chicago Region</h1>
+
+		<div class="bottom-spacing black-normal-title">Mayor Emanuel, Governor Rauner Recruit Historic Group of Public, Private and Non-Profit Sector Leaders to Support Effort to Bring Amazon to Chicago</div>
+
+
+<div class="top-images">
+    
+        
+        
+            
+        
+    
+</div>
+
+	<div class="dotted-small-line-padding">
+		Mayor's Press Office&nbsp;&nbsp;&nbsp;&nbsp;312.744.3334
+	</div>
+
+
+
+
+	<div class="container-fluid page-full-description">
+         <div class="row"> 
+            <div class="col-xs-12">	
+                <p>Mayor Rahm Emanuel and Governor Bruce Rauner today announced the formation of a committee that will support the drive to bring Amazon&rsquo;s HQ2 to the Chicago area. The committee will be co-chaired by Oscar Munoz, CEO of United Airlines.; Penny Pritzker, Founder and Chair of PSP Capital; Jim Reynolds, Chairman and CEO of Loop Capital; and Miles White, Chairman and CEO of Abbott.</p>
+<p>The effort will be headed by the Mayor and Governor, who are serving as Honorary Co-Chairs of the Committee, and Cook County Board President Toni Preckwinkle, who is serving as Honorary Vice-Chair. In total, the committee is comprised of more than 600 leaders from across the business, financial, technology, arts and culture, civic and education communities.</p>
+<p>&ldquo;This unprecedented coalition brings together the public and private sectors with education, community and faith leaders to speak with a powerful, unified voice that says that Chicago is the ideal location for Amazon to build its new home and continue to grow for generations,&rdquo; Mayor Emanuel said. &ldquo;As we prepare the bid to bring Amazon home to Chicago, this committee will highlight the region&rsquo;s competitiveness and strength as a national and global leader in business, education, research, culture and quality of life.&rdquo;</p>
+<p>&ldquo;This Committee&rsquo;s membership compellingly represents the assets that Illinois offers business,&rdquo; Governor Rauner said. &ldquo;These leaders take advantage of our resources in transportation, distribution and logistics; technology and engineering excellence; world renowned medical, academic and educational research; and culture, arts, recreation and sports. Most important, they access Illinois&rsquo; diverse, highly skilled workforce. Their involvement sends a great message about the value of doing business in Illinois.&rdquo;</p>
+<p>"I am pleased to support this approach in highlighting the many strengths of our region as we convince Amazon to locate its HQ2 here," Cook County Board President Preckwinkle said. "Our region boasts assets unmatched anywhere else in the U.S., and our collaborative approach is clear demonstration of our will to work together, county, city and suburb, and state as well as across party lines, to pursue our mutual goal."</p>
+<p>Earlier this month Amazon announced it plans to build HQ2 &ndash; a second headquarters in North America. The company expects to invest more than $5 billion for construction and employ up to 50,000 people. HQ2 is also projected to create tens of thousands of additional jobs and tens of billions of dollars in additional investment. The company is accepting applications in October from areas across the nation.</p>
+<p>Mayor Emanuel and Governor Rauner, in collaboration with surrounding counties, will be submitting a bid to bring HQ2 to metropolitan Chicago. The effort is being led for the Mayor&rsquo;s Office by Deputy Mayor Robert S. Rivkin and for the Governor&rsquo;s Office by Deputy Governor Leslie Munger. The committee will help demonstrate that the Chicago area is the best place for Amazon to grow and prosper.</p>
+<p>The formation of the committee builds on a major step taken last week. The City of Chicago and Illinois Department of Commerce and Economic Opportunity are currently accepting nominations for potential Amazon HQ2 locations to include in the formal response to the company&rsquo;s search for a second home. Nominated sites must meet Amazon&rsquo;s requirements, which include 500,000 square feet of initial space and the ability to expand up to 8 million square feet of space over the next 10 years. Sites should also provide direct access to mass transit and be located within 30 miles of a population center and 45 minutes of O&rsquo;Hare Airport. The deadline for nominations is Wednesday, Sept. 27, 2017.</p>
+<p><strong>HONORARY CO-CHAIRS</strong><br />Mayor Rahm Emanuel<br />Governor Bruce Rauner</p>
+<p><strong>HONORARY VICE CHAIR</strong><br />Cook County Board President Toni Preckwinkle</p>
+<p><strong>CO-CHAIRS</strong><br />Oscar Munoz; CEO, United Airlines<br />Penny Pritzker; Founder &amp; Chair, PSP Capital<br />Jim Reynolds; Co-Founder, Chairman &amp; CEO, Loop Capital<br />Miles D. White; Chairman &amp; CEO, Abbott</p>
+<p><strong>ILLINOIS CONGRESSIONAL DELEGATION<br /></strong>Dick Durbin, Senator of Illinois</p>
+<p><strong>ILLINOIS GENERAL ASSEMBLY</strong><br />John J. Cullerton, Illinois Senate President, State of Illinois<br />William E. Brady, Illinois Senate Minority, State of Illinois<br />Michael J. Madigan, Speaker of the House, State of Illinois<br />Jim B. Durkin, Illinois House Minority Leader, State of Illinois</p>
+<p><strong>CHICAGO CITY COUNCIL<br /></strong>Alderman Carrie M. Austin, 34th Ward; Chairman, Committee on the Budget and Government Operations <br />Alderman Edward M. Burke, 14th Ward; Chairman, Committee on Finance<br />Alderman Joe Moreno, 1st Ward; Chairman, Committee on Economic, Capital and Technology Development<br />Alderman Patrick O'Connor, 40th Ward; Chairman, Committee on Workforce Development and Audit</p>
+<p><strong>COUNTIES</strong><br />Dan Cronin; Board Chair, DuPage County<br />Jack Franks; Board Chair, McHenry County<br />Scott Gryder; Board President, Kendall County<br />Chris Lauzen; Board Chair, Kane County<br />Aaron Lawlor; Board Chair, Lake County<br />Lawrence Walsh; Executive, Will County</p>
+<p><strong>EX-OFFICIO</strong><br />David R. Casper; President &amp; CEO, BMO Harris Bank N.A; Chairman, Intersect Illinois<br />Danielle DuMerer; Commissioner, Department of Innovation &amp; Technology; Chief Information Officer, City of Chicago<br />John Keller; Chief of Staff, Office of Cook County Board President<br />Aarti Kotak; First Deputy Commissioner, Department of Planning and Development, City of Chicago<br />Jeff Malehorn, President &amp; CEO, World Business Chicago<br />Sean McCarthy; Director, Illinois Department of Commerce and Economic Opportunity<br />Leslie Munger; Deputy Governor, State of Illinois<br />Farzin Parang; Deputy Chief of Staff for Economic Development, City of Chicago<br />Mark Peterson; President &amp; CEO, Intersect Illinois<br />David Reifman; Commissioner of Planning and Development, City of Chicago<br />Robert Rivkin; Deputy Mayor, City of Chicago<br />Michael J. Sacks; Chairman &amp; CEO, GCM Grosvenor; Vice-Chairman, World Business Chicago<br />Andrea Zopp; Deputy Mayor, Chief Neighborhood Development Officer, City of Chicago</p>
+<p><br /><strong>BUSINESS</strong><br />Chris Abbinante; Partner, Sidley Austin LLP<br />Zaid Abdul-Aleem; Managing Director, Moelis &amp; Company<br />Jim Abrams; Chief Operating Officer, Medline Industries, Inc. <br />Shradha Agarwal; President &amp; Co-Founder, Outcome Health<br />Anil Ahuja; CEO, CCJM<br />Jimmy Akintonde; President &amp; CEO, Ujamaa Construction Inc.<br />Constantine Alexandrakis; Managing Director of Chicago Office, Russell Reynolds<br />Carl Allegretti; Chairman &amp; CEO, Deloitte Tax, LLP<br />Jose E. Almeida; Chairman, President &amp; CEO, Baxter International, Inc.<br />Michael Alter; President, Alter Group<br />Anthony K. Anderson; Former Vice Chairperson &amp; Managing Partner of the Midwest Area, Ernst &amp; Young LLP<br />Rosemarie Andolino; President &amp; CEO, M.A.G U.S.<br />Andrew Appel; President &amp; CEO, IRI<br />Jeff Aronin; CEO, Paragon Biosciences, LLC<br />Rita Athas; Former President, World Business Chicago<br />Sarah Bader; Managing Director, Principal, Gensler<br />Curt Bailey; President, Related Midwest<br />Stephen Baird; President &amp; CEO, Baird &amp; Warner<br />Larry A. Barden; Partner, Sidley Austin LLP<br />Earl Barnes; SVP &amp; General Counsel, Advocate Health Care<br />Tommy Barnes; President, project44<br />Michael Bashaw; Regional President, Whole Foods Market Midwest<br />Yasmin Bates-Brown; Former Executive Vice President, BMO Harris<br />Marc Baumann; President &amp; CEO, SP Plus Corporation<br />Brenna Berman; Executive Director, UI LABS - City Digital<br />George W. Bilicic; Vice Chairman of Investment Banking, Lazard Freres &amp; Co.<br />Robert Blackwell; CEO, E.K.I. Digital<br />Neil Bluhm; Managing Principal, Walton Street Capital<br />Jason Blumberg; CEO &amp; Managing Director, Energy Foundry<br />Norman R. Bobins; Vice Chairman, CIBC Bank USA<br />Kevin Boehm; Co-Founder, BOKA Restaurant Group<br />Les Bond; CEO, Attucks Asset Management, LLC<br />John Bonds; Co-Founder &amp; CEO, Safeway Construction<br />George Bousis; Founder &amp; CEO, Raise<br />Jim Brady; COO, Grant Thornton LLP<br />William J. Brodsky; Chairman, Cedar Street Asset Management<br />Steve Brodsky; CEO, Spot Trading<br />Greg Q. Brown; Chairman &amp; CEO, Motorola Solutions<br />John Buck II; Chairman, The John Buck Company<br />John Bucksbaum; CEO, Bucksbaum Retail Properties<br />Martin Cabrera Jr.; Founder &amp; CEO, Cabrera Capital Markets, LLC<br />Debra A. Cafaro; Chairman &amp; CEO, Ventas, Inc.<br />Olga Camargo; Managing Partner, TOROSO Investments, LLC; Chair, HACE<br />Patrick J. Canning; Managing Partner, KPMG LLP<br />John A. Canning, Jr.; Chairman, Madison Dearborn Partners<br />Dave Carlins; Co-CEO, Magellen Development Group<br />Inga Carus; Chairman, Carus Group<br />Denise Casalino; Senior Vice President, AECOM<br />Gregory Case; President &amp; CEO, Aon<br />Sach Chitnis; Managing Partner, Jump Capital<br />Andrew Cittadine; President &amp; CEO, Diagnostic Photonics<br />Bob Clark; Chairman &amp; CEO, Clayco<br />Frank Clark; President, Chicago Board of Education; Retired Chairman &amp; CEO, ComEd<br />James Coleman; Chicago Office Managing Director, Accenture<br />Kevin Connelly; CEO, Spencer Stuart<br />Sean Connolly; President &amp; CEO, ConAgra Foods<br />DJavan Conway; President, Conway Consulting Group<br />Tarrah Cooper; Managing Director, Mercury<br />Michael Coyne; Interim CEO &amp; CFO, Potbelly Sandwich Works<br />Christopher M. Crane; President &amp; CEO, Exelon Corporation<br />James S. Crown; President, Henry Crown and Company<br />Lester Crown; Chairman, Henry Crown and Company<br />Stephen A. Cruise; Managing Director, Greenhill &amp; Co., LLC<br />Brandon Cruz; Co-Founder &amp; President, GoHealth<br />Aashish Dalal; CEO, ParkWhiz<br />Honorable Richard M. Daley; Former Mayor, City of Chicago<br />William Daley; Managing Director, Argenti&egrave;re Capital; Former White House Chief of Staff to President Barack Obama<br />Wendy Davidson; President, U.S. Specialty Channels, Kellogg Company<br />Steve Davis; Chairman, The Will Group<br />Deborah Dehaas; Vice Chairman, Chief Inclusion Officer, Deloitte LLP<br />Veranda Dickens; Independent Philanthropist, Former Executive Chairman, Seaway Bank<br />David Doig; President, Chicago Neighborhood Initiatives<br />Vahe Dombalagian; Managing Director, Madison Dearborn Partners<br />Matt Downs; CEO, Sandbox Industries<br />Craig J. Duchossois; Chairman &amp; CEO, The Duchossois Group<br />Steve Easterbrook; President &amp; CEO, McDonald&rsquo;s<br />Richard W. Edelman; President &amp; CEO, Edelman <br />Glenn Eden; Executive Vice President, Weber Shandwick<br />Donald Edwards; CEO, Flexpoint Ford, LLC<br />Matt Elenjickal; CEO, FourKites<br />Mike Englehart; President &amp; CEO, Presence Health<br />John R. Ettelson; President &amp; CEO, William Blair &amp; Company<br />Tyrone C. Fahner; Partner &amp; Former Chairman, Mayer Brown LLP<br />Michael Fassnacht; President &amp; CEO, FCB Chicago<br />Stephen Ferrara; COO, BDO USA, LLP; Chairman, Chicagoland Chamber of Commerce<br />Michael W. Ferro, Jr.; Chairman &amp; CEO, Merrick Ventures, LLC; Executive Committee Chairman, Chicago Community Trust<br />Paul J. Finnegan; Co-CEO, Madison Dearborn Partners<br />David Fisher; CEO, Enova<br />Thomas P. Fitzgerald; Chairman and Executive Committee Leader, Winston &amp; Strawn LLP<br />Brian Fitzpatrick; Co-Founder &amp; CTO, Tock<br />Declan Flanagan; CEO, Lincoln Clean Energy<br />Mike T. Foley; CEO North America, Zurich; Chairman, Zurich Holding Company of America, Inc.<br />Stephen W. Fort; Senior Vice President, Turner Construction Company<br />Torrey Foster Jr.; Vice Chairman, Consumer Practice Chicago, Korn Ferry<br />Jason Fried; Co-Founder &amp; CEO, Basecamp<br />Mike Gamson; Senior Vice President, Global Solutions, LinkedIn<br />Sonny Garg; Energy Solutions Lead, Uptake<br />Alexandra Garza; Founder &amp; Principal, AGG Consulting<br />Laurence S. Geller; Chairman, Geller Capital Partners<br />Matt Gibson; Head of Investment Banking Client Coverage, The Goldman Sachs Group, Inc.<br />Chris Girgenti; Managing Partner, Pritzker Group Venture Capital<br />Marin Gjaja; Senior Partner &amp; Managing Director Chicago, Boston Consulting Group<br />Chris Gladwin; Co-Founder &amp; CEO, Ocient<br />James T. Glerum, Jr.; Managing Director &amp; Chairman, Regional Banking for North America - Citigroup<br />Andrew Gloor; Managing Principal, Sterling Bay Chicago<br />Richard C. Godfrey; Partner, Kirkland &amp; Ellis LLP<br />Ikram Goldman; Co-Owner, Ikram <br />Al Goldstein; Founder &amp; CEO, Avant<br />Brett Goldstein; Managing Partner, Ekistic Ventures<br />Richard A. Gonzalez; Chairman &amp; CEO, AbbVie<br />Larry J. Goodman, M.D.; CEO, Rush and Rush University Medical Center<br />Ilene Gordon; Chairman, President &amp; CEO, Ingredion Inc.<br />Steve Gould; Operating Partner, Abundant Venture Partners<br />Alex Gourlay; Co-Chief Operating Officer, Walgreens Boots Alliance; President, Walgreens<br />Terry Graber; President &amp; CEO, Power Construction<br />Shelley Stern Grach; Director, Civic Engagement, Microsoft<br />Antonio Gracias; Founder, Managing Partner, Chief Investment Officer, Valor Equity Partners<br />Jim Gray; CEO, G-Bar<br />Kenneth C. Griffin; Founder &amp; CEO, Citadel<br />Cornelius Griggs; President &amp; Co-Founder, GMA Construction Group<br />Raj Gupta; Executive Chairman, ESD<br />Wallace Harris Jr.; SVP Head U.S. Personal &amp; Small Business Banking, Chief CRA Officer, BMO Harris Bank<br />Dean Harrison; President &amp; CEO, Northwestern Memorial HealthCare<br />Brett Hart; Executive Vice President, Chief Administrative Officer, and General Counsel, United Airlines; Chairman, Metropolitan Pier and Exposition Authority (MPEA)<br />Bernardo Hees; CEO, The Kraft Heinz Company<br />David Helfand; President &amp; CEO, Equity Commonwealth<br />Jason Heltzer; Partner, Origin Ventures<br />Stephanie Hickman; President &amp; CEO, Trice Construction<br />Elzie Higginbottom; Founder &amp; CEO, Eastlake Management &amp; Development<br />Mellody Hobson; President, Ariel Investments<br />Andrew Hochberg; CEO, Next Realty, LLC<br />Patricia Brown Holmes; Founding Partner, Riley Safer Holmes &amp; Cancila LLP<br />Mark S. Hoplamazian; President &amp; CEO, Hyatt Hotels Corporation<br />Zackery House; CEO, Environmental System Design<br />Terry Howerton; CEO, TechNexus Venture Collaborative<br />Craig Huffman; Co-Founder &amp; Principal, Ascendance Partners<br />Larry Huggins; President &amp; CEO Riteway-Huggins Construction Services<br />W. James Farrell; Advisor, TPG Growth; Former Chairman &amp; CEO, Illinois Tool Works, Inc<br />Rebecca Jensen; CEO, Midwest Real Estate Data (MRED)<br />Amit Jhawar; COO, Braintree<br />Lamar A. Johnson; President &amp; CEO, The Lamar Johnson Collaborative<br />H. Fisk Johnson; Chairman &amp; CEO, SC Johnson<br />Phil Johnson; Co-Founder &amp; Principal, Johnson and Lee Architects<br />David Kahnweiler; Chairman &amp; CEO, Colliers International, Chicago<br />Mohit Kapoor; Chief Information &amp; Technology Officer, TransUnion<br />Eric Douglas Keene; Founder &amp; President, Keene Advisory Group<br />Christie Kelly; Global CFO, Jones Lang LaSalle<br />Jennifer A. Kenedy; Managing Partner Chicago Office, Locke Lord LLP<br />Theresa Kern; Chair, WCOE<br />Steve Kersten; Owner &amp; President, WaterSaver Faucet<br />Brad Keywell; Co-Founder &amp; CEO, Uptake Technologies<br />Lester B. Knight III; Founding Partner &amp; Co-Chairman, RoundTable Healthcare Partners<br />Steve Koch; Former Deputy Mayor, City of Chicago<br />James P. Kolar; Central Market Managing Partner, Pricewaterhouse Coopers LLP (PwC)<br />Elena Kraus; SVP &amp; General Counsel, Walgreen Co.<br />Mitchell J. Krebs; President &amp; CEO, Coeur Mining, Inc.<br />Paul V. La Schiazza; President, AT&amp;T Illinois<br />Logan Lahive; Managing Director, Techstars<br />Paul Lambert; Chicago Market President, Bank of America<br />Amanda Lannert; CEO, Jellyvision<br />Jeffrey A. Lasky; COO, Midwest Real Estate Data (MRED)<br />Nathan Laurell; Founder, New Frontier Holdings<br />Jim Lecinski; Vice President, US Sales &amp; Service, Google<br />Stephen Lee; Managing Counsel, US Downstream, BP America Inc.<br />Bruce Leech; Executive Director, Coleman Entrepreneurship Center, DePaul University <br />Eric Lefkofsky; CEO &amp; Co-Founder, Tempus; CEO &amp; Co-Founder, Lightbank; Chairman &amp; Co-Founder, Groupon; Co-Founder, Uptake<br />Nila R. Leiserowitz; Regional Managing Principal, Gensler<br />Michael Levin; Partner, Consumer Intelligence Research Partners<br />Jeffrey Levine; Senior Managing Director &amp; General Counsel, Mesirow Financial<br />Michael W. Lewis; Former Regional President, BMO Harris N.A.<br />Michael Liang; Partner, Baird Venture Partners<br />Tod Lickerman; Chief Executive of the Americas, Cushman &amp; Wakefield<br />Peter Lieb; Executive V.P. &amp; General Counsel, Aon Corporation<br />Robert A. Livingston; President &amp; CEO, Dover Corporation<br />Josh Lowitz; Partner, Consumer Intelligence Research Partners<br />Donald G. Lubin; Senior Counsel, Dentons<br />Juan Ricardo Luciano; Chairman, President &amp; CEO, Archer Daniels Midland Company<br />Eric Lunt; Co-Founder &amp; CTO, Signal<br />John W. Madigan; Former Chairman &amp; CEO, Tribune Company<br />Barry Malkin; CEO, GEM Realty<br />Matt Maloney; Co-Founder &amp; CEO, GrubHub<br />Joe Mansueto; Executive Chairman, Morningstar<br />Craig Martin; Chair, Litigation Department, Jenner &amp; Block LLP <br />R. Eden Martin; Senior Counsel, Sidley Austin LLP<br />Seth Martin; President, Pritzker Realty Group<br />Talia Mashiach; Founder, CEO, &amp; Product Architect, Eved<br />Charles Matthews; President &amp; CEO, Peoples Gas and North Shore Gas<br />Stacy Trackey Meagher; Regional Vice President Corporate Accounts, Microsoft<br />Jett McCandless; CEO &amp; Founder, project44<br />George McCaskey; Chairman, Chicago Bears<br />Thomas McElroy; Principal, Level-1 Global Solutions LLC<br />Lester McKeever; Managing Principal, Washington, Pittman &amp; McKeever, LLC<br />Andrew J. McKenna; Chairman, Schwarz Supply Source; Former Chairman, McDonald's Corporation<br />Deryl McKissack; President &amp; CEO, McKissack &amp; McKissack<br />Richard Melman; Founder &amp; Chairman, Lettuce Entertain You Enterprises<br />Christopher C. Melvin Jr.; Managing Partner, Melvin &amp; Company LLC.<br />Samuel M. Mencoff; Co-CEO, Madison Dearborn Partners<br />Jamie Miller; SVP, GE; President &amp; CEO, GE Transportation<br />Gabriel Mitchell; President &amp; CEO, Angel Flight Marketing Services<br />Timothy Mohan; Chief Executive Partner, Chapman &amp; Cutler LLP<br />Matt Moog; CEO, PowerReviews<br />Rumi Morales; Founder, Rumi Ventures<br />Juan Moreno; Founder &amp; President, JGMA<br />Michael Morkin; Partner, Baker &amp; McKenzie LLP<br />Michael H. Moskow; Vice Chair &amp; Distinguished Fellow, Chicago Council on Global Affairs; Former CEO &amp; President, Federal Reserve Bank of Chicago<br />Dennis Muilenburg; Chairman, CEO, &amp; President, The Boeing Company<br />Kieran Murphy; President &amp; CEO, GE Healthcare<br />Scott Murray; CTO, Northern Trust<br />Langdon Neal; Principal &amp; Owner, Neal &amp; Leroy, LLC<br />David W. Nelms; Chairman &amp; CEO, Discover<br />Martin Nesbitt; Co-Founder &amp; Co-CEO, The Vistria Group<br />Phil Nevels; Director, Utility of the Future, ComEd; Former Executive Director ChicagoNEXT<br />Michael Newman; President &amp; CEO, Golub &amp; Company LLC<br />Pin Ni; President, Wanxiang America Corporation<br />Douglas Oberhelman; Former Chairman &amp; CEO, Caterpillar<br />William A. Osborn; Former Chairman &amp; CEO, Northern Trust Corporation<br />Sarah Pang; Senior Vice President Corporate Communications, CNA Financial<br />Henry M. Paulson, Jr.; Chairman, The Paulson Institute; Former U.S. Treasury Secretary; Former CEO, Goldman Sachs<br />Andres Mendoza Pena; Partner, A.T. Kearney<br />Sheila Penrose; Chairman, JLL<br />Andrew Perlman; Founder &amp; CEO, GreatPoint Energy<br />Stefano Pessina; Executive Vice Chairman &amp; CEO of Walgreens Boots Alliance, Inc.<br />Terry Peterson; Vice President, Corporate &amp; External Affairs, Rush University Medical Center<br />Eero Pikat; President &amp; CTO, Barchart<br />Michael Polsky; Founder, President &amp; CEO, Invenergy LLC<br />Jay Porter; President, Edelman Chicago<br />Claude Powers; CEO, Powers and Sons Construction<br />Jose Luis Prado; Chairman &amp; CEO, Evans Food Group; Former President Quaker Oats North America, Prado Strategic Consulting <br />Anne Pramaggiore; President &amp; CEO, ComEd<br />Adam Pressman; Partner, A.T. Kearney<br />Daphne Preuss; CEO, Chromatin<br />Richard Price; Chairman &amp; CEO, Mesirow Financial<br />Quintin Primo III; Co-Founder, Chairman &amp; CEO, Capri Investment Group, LLC<br />Tom Pritzker; Chairman &amp; CEO of TPO; Executive Chairman, Hyatt Hotels Corporation<br />Frank Ptak; Chairman &amp; CEO, Marmon Holdings, Inc.<br />Stephen Pugh; President, Pugh, Jones &amp; Johnson, P.C.<br />Stephen Quazzo; CEO, Pearlmark Real Estate<br />Rahier Rahman; CEO, Turn<br />Alison Ranney; Managing Director, Koya Partners<br />Harper Reed; Senior Director, Software Development, PayPal<br />Eric Reeves; General Counsel &amp; Managing Director, Duchossois Capital Management<br />Paul C. Reilly; Division Executive, U.S. Trust<br />Michael Reinsdorf; President &amp; COO, Chicago Bulls<br />Jerry Reinsdorf; Chairman, Chicago White Sox<br />Rena Reiss; EVP, General Counsel &amp; Secretary, Hyatt Hotels Corporation<br />Matt Revord; SVP, Chief Legal Officer, GC &amp; Secretary, Potbelly Corporation<br />Linda Johnson Rice; Chairman &amp; CEO, Johnson Publishing Inc.; President, Chicago Public Library<br />Thomas E. Richards; Chairman &amp; CEO, CDW LLC<br />Andy Richardson; CEO, Greeley and Hansen<br />Mary Richardson-Lowry; Principal &amp; Managing Member, Ililewa; Former President, Chicago Board of Education<br />Larry Richman; President &amp; CEO, CIBC Bank USA<br />Thomas Ricketts; Chairman &amp; Owner, Chicago Cubs; CEO, Incapital LLC<br />Norbert Riedel; President &amp; CEO, Aptinyx<br />Dee Robinson; Founder &amp; President, Robinson Hill, Inc.<br />Robbie Robinson; Advisor to President Barack Obama; Managing Director, BDT Capital<br />Jim Robinson; President, Americas Operations, Astellas Pharma<br />Dino Robusto; Chairman &amp; CEO, CNA Financial<br />Benedict Rocchio; Partner, Baird Capital<br />Nelson Rodriguez; General Manager, Chicago Fire<br />John Rogers Jr.; Chairman, CEO &amp; CIO, Ariel Investments<br />Trish Rooney; Founder &amp; CEO, R4 Services, LLC <br />Nick Rosa; Co-Founder &amp; CEO, Sandbox Industries<br />Scott Rose; Business &amp; Financial Services Co-C hair, Hyde Park Angels<br />Loretta Rosenmayer; Founder &amp; Chairwoman, INTREN<br />Kristi Ross; Co-CEO &amp; President, tastytrade<br />Kristen Rossi; Head of Midwest Investment Banking and Managing Director, Morgan Stanley<br />John W. Rowe; Chairman Emeritus, Exelon Corporation<br />Jesse Ruiz; Partner, Drinker Biddle &amp; Reath; President, Chicago Park District<br />Patrick G. Ryan; Founder, Chairman &amp; CEO, Ryan Specialty Group<br />Pat Ryan Jr.; CEO, INCISENT Labs<br />Ron Safer; Founding Partner, Riley Safer Holmes &amp; Cancila<br />Neal Sales-Griffin; CEO, CodeNow<br />John F. Sandner; Retired Chairman, CME Group<br />Diana Sands; Senior Vice President, The Boeing Company<br />E. Scott Santi; Chairman &amp; CEO, ITW; Vice Chairman, Commercial Club of Chicago<br />Pietro Satriano; President &amp; CEO, US Foods<br />Muneer A. Satter; Founder &amp; Chairman, Satter Investment Management, LLC<br />Dhruv Saxena; Co-Founder &amp; CEO, ShipBob<br />Jennifer F. Scanlon; President &amp; CEO, USG Corp<br />Brian Schafer; Partner, Winston &amp; Strawn LLP<br />David Schonthal; Portfolio Director, Business Design, IDEO<br />Charles Schrock; Chairman, President &amp; CEO, Integrys Energy Group, Inc.<br />Joe Scoby; Head of Quantitative Investments, Magnetar<br />Sam Scott; Former Chairman, President &amp; CEO, Corn Products International, Inc.; Chairman, Black Chicago Tomorrow<br />Gordon I. Segal; Founder, Crate &amp; Barrel<br />Rishi Shah; Co-Founder &amp; CEO, Outcome Health<br />Smita Shah; CEO, Spaantech<br />Matt Shattock; Chairman &amp; CEO, Beam Suntory<br />Jai Shekhawat; Founder &amp; Former CEO, SAP Fieldglass<br />Andrew Sieja; Founder &amp; CEO, Relativity<br />Jeff Silver; CEO, Coyote Logistics<br />Kimberly Simios; Office Managing Partner, Ernst &amp; Young LLP<br />Virginia Simmons; Senior Managing Partner, McKinsey &amp; Company<br />Alpana Singh; Owner, Seven Lions, The Boarding House<br />Bob Six; President, Zeller Management Corp; COO, Zealty<br />Amy Skaggs; Associate Regional Counsel, Gensler<br />James Skogsbergh; President &amp; CEO, Advocate Health Care<br />Martin P. Slark; Vice Chairman &amp; CEO, Molex Incorporated<br />Michael Small; President &amp; CEO, Gogo<br />Corey Smith; President, New Horizon Steel, LLC<br />Eric Smith; Market President, Fifth Third Bank<br />Charles Smith; Founder &amp; CEO, CS Insurance Agency<br />Gil Soffer; Managing Partner, Chicago Office, Katten Muchin Rosenman LLP<br />Vik Sohoni; Senior McKinsey &amp; Company<br />Melody Spann-Cooper; Chairman, Midway Broadcasting &amp;, President, WVON Radio<br />J. Douglas Sparkman; COO Fuels, North America, BP Products North America, Inc.<br />Marc Sperber; Partner, Mayer Brown LLP<br />David Spielfogel; Co-Founder &amp; Managing Partner; Ekistic Ventures<br />James Sprayregen; Partner, Kirkland &amp; Ellis LLP<br />Harrison I. Steans; Chairman of the Executive Committee, Financial Investments Corporation<br />Jonathan Stein; Partner, Skidmore, Owings, &amp; Merrill LLP<br />Paula Steiner; President &amp; CEO, Health Care Service Corp<br />Betty Steinert; Board of Directors, Intersect Illinois<br />Tim Stojka; CEO, Agentis Energy<br />Hugh Sullivan; Board Member &amp; CSO, Luum; Chairman, mHub <br />Robert Sullivan; Regional President, Fifth Third Bank<br />Nancy Sullivan; CEO &amp; Senior Managing Director, IllinoisVENTURES<br />Scott Swanson; President, PNC Bank<br />Andrew Swinand; CEO, Leo Burnett<br />Tina Tabacchi; Partner-in-Charge, Chicago, Jones Day<br />Desiree Tate; President, Desiree Tate &amp; Associates<br />Lyndon Taylor; Partner in Charge - Chicago, Heidrick &amp; Struggles<br />Roger Tedrick; President &amp; CEO, Tedrick Group<br />Paul W. Theiss; Chairman, Mayer Brown LLP<br />Mark A. Thierer; CEO, OptumRX<br />Richard L. Thomas; Former President, CEO, &amp; Chairman, First Chicago NBD Corporation<br />Donald Thompson; Founder &amp; CEO, Cleveland Ave, LLC; Former President &amp; CEO, McDonalds<br />Nishu Thukral; CEO &amp; President, Pangea Money Transfer<br />Ed Tilly; Chairman &amp; CEO, CBOE <br />Michael Tower, Senior Partner, A.T. Kearney<br />Kimberly Trautmann; Director, Venture Capital Investments, DRW<br />Glen Tullman; Chairman &amp; CEO, Livongo Health<br />Guy Turner; Managing Director, Hyde Park Venture Partners<br />Grant Uhlir; Managing Director, Principal, Gensler<br />Kenneth Ulrich; Principal, Goldberg Kohn Ltd.<br />Jim Umpleby: CEO, Caterpillar, Inc.<br />Laura Van Peenan; Managing Director and Head of Chicago Coverage, William Blair<br />Alex Vetter; President &amp; CEO, Cars.com<br />David Vitale; Chairman, Urban Partnership Bank<br />Thuy Vo; Chief Counsel M&amp;A, Archer Daniels Midland Company<br />Rick Waddell; Chairman &amp; CEO, Northern Trust; Chairman, Commercial Club of Chicago<br />Dan Wagner; Founder &amp; CEO, Civis Analytics<br />Timothy Walbert; Chairman, President, &amp; CEO, Horizon Pharma Holdings USA, Inc.<br />Leon Walker; Managing Partner, DL3 Realty<br />Monica Walker; CEO &amp; CIO, Holland Capital Management<br />Alex Washington; Managing Director, Wind Point Partners<br />Kenneth Webb; Founder, President &amp; CEO, Fact Finders Group Inc.<br />David B. Weinberg; Chairman &amp; CEO, Judd Enterprises, Inc.<br />David Weinstein; Founder &amp; Managing Partner, Freshwater Advisors<br />Benjamin Weprin; CEO, AJ Capital Partners<br />Dr. Cheryl R. Whitaker; Chairwoman &amp; CEO, NextLevel Health Partners<br />Peter Wilkins; Managing Director, Hyde Park Angels<br />Kevin Willer; Partner, Chicago Ventures<br />Keith E. Williams; President &amp; CEO, UL LLC<br />Melvin D. Williams; President, Nicor Gas<br />Mary Wilson; Managing Partner, Chicago Office, Dentons<br />Thomas J. Wilson; Chairman &amp; CEO, The Allstate Corporation<br />Don Wilson; Founder &amp; CEO, DRW<br />W. Rockwell Wirtz; President, Wirtz Corporation; Chairman, Chicago Blackhawks<br />Robert A. Wislow; Chairman, CBRE<br />Patricia Woertz; Former President &amp; CEO, Archer Daniels Midland<br />Brian Wolfe; Partner, Kirkland and Ellis<br />Jim Wong; CEO, Brilliant<br />Jessica Yagan; CEO, Impact Engine<br />Sam Yagan; CEO, ShopRunner<br />Jeff Yordon; Chairman &amp; CEO, Sagent Pharmaceuticals<br />Dominick P. Zarcone; President, CEO &amp; Director, LKQ Corporation<br />Nikki Zollar; President, Safespeed LLC</p>
+<p><strong>EDUCATIONAL INSTITUTIONS</strong><br />Diana Rauner; First Lady, State of Illinois; President, The Ounce of Prevention Fund <br />Michael Amiridis; Chancellor, University of Illinois at Chicago<br />Brenna Argall; Director, argallab, Northwestern University<br />David Baker; Executive Director, America's Urban Campus<br />Forrest Claypool; CEO, Chicago Public Schools<br />Teresa Cordova; Director &amp; Professor of Urban Planning and Policy, Great Cities Institute<br />Alan Cramb; President, Illinois Institute of Technology<br />Linda Darragh; Larry Levy Executive Director, Kellogg Innovation &amp; Entrepreneurship Initiative, Northwestern University<br />A. Gabriel Esteban; President, DePaul University<br />John Flavin; Associate Vice President of Entrepreneurship &amp; Innovation, University of Chicago<br />Laura Frerichs; Director of Economic Development &amp; Research Park, University of Illinois<br />Austan Goolsbee; Professor, University of Chicago; Former Chairman, White House Council of Economic Advisors<br />Robert Jones: Chancellor, University of Illinois at Urbana-Champaign<br />Melissa Crounse Kaufman; Executive Director, The Garage, Northwestern University<br />Timothy L. Killeen; President, University of Illinois System<br />Kwang-Wu Kim; President &amp; CEO, Columbia College<br />Bruce Leech; Executive Director, Coleman Entrepreneurship Center, DePaul University<br />Ali Malekzadeh; President, Roosevelt University<br />David Miller; Dean, College of Computing and Digital Media, DePaul University<br />Peter Pfanner; Executive Director, UIC Innovation Center, University of Illinois at Chicago<br />Jo-Ann Rooney; President, Loyola University of Chicago<br />Juan Salgado; Chancellor, City Colleges of Chicago<br />Morton O. Schapiro; President, Northwestern University<br />Matthew Tirrell; Pritzker Director, Institute for Molecular Engineering, University of Chicago<br />Catherine Vorwald; Associate Vice President, Technology Department, Illinois Institute of Technology<br />Dr. Eric E. Whitaker; Former Executive Vice President, University of Chicago Medical Center<br />Robert Zimmer; President, University of Chicago</p>
+<p><strong>ARTS &amp; CULTURE</strong><br />Brian Bannon; Commissioner &amp; CEO, Chicago Public Library<br />Kevin J. Bell; President and CEO, Lincoln Park Zoo<br />Greg Cameron; Executive Director, Joffrey Ballet<br />Bridget Coughlin; President &amp; CEO, Shedd Aquarium<br />Nora Daley; Founding Officer, Steppenwolf Theater <br />Gerard Donnelly; President &amp; CEO, Morton Arboretum<br />Jean M. Franczyk; President &amp; CEO, Chicago Botanic Garden<br />Anthony Freud; General Director, President, &amp; CEO, Lyric Opera<br />Madeleine Grynsztejn; Pritzker Director, Museum of Contemporary Art<br />Perri Irmer; CEO, DuSable Museum<br />Mark Kelly; Commissioner, City of Chicago Department of Cultural Affairs &amp; Special Events<br />Richard Lariviere; President &amp; CEO, The Field Museum<br />Michelle B. Larson; President &amp; CEO, Adler Planetarium<br />Josephine Lee; President &amp; Artistic Director, Chicago Children&rsquo;s Choir<br />Robert M. Levy; Chairman, Art Institute of Chicago<br />Shirley R. Madigan; Chair, Illinois Arts Council<br />David Mosena; President &amp; CEO, Museum of Science &amp; Industry<br />Alex Pissios; President, Cinespace Chicago Film Studios<br />James Rondeau; President and Eloise W. Martin Director, Art Institute of Chicago<br />Stuart D. Strahl; President &amp; CEO, Brookfield Zoo<br />Jackie Taylor; Founder, CEO, Black Ensemble Theater<br />Regina Taylor; Actress &amp; Artistic Associate, Goodman Theater<br />Carlos Tortolero; Founder, President &amp; CEO, National Museum of Mexican Art<br />Sona Wang; Managing Director, Chicago Blues Experience<br />Walt Whitman; President &amp; Director, Soul Children of Chicago</p>
+<p><strong>COMMUNITY &amp; FAITH-BASED</strong><br />Satish Amruthur; President, Hindu Temple of Greater Chicago <br />Joy Aruguete; CEO, Bickerdike Redevelopment Corporation<br />Torrey Barrett; Founder &amp; Executive Director, K.L.E.O. Community Life Center<br />Bishop Ocie Booker; Tabernacle of God Church of God in Christ<br />Dr. Byron T. Brazier; Pastor, Apostolic Church of God<br />Pastor Corey Brooks; New Beginnings Church<br />Kirstin Chernawsky; Executive Director, Erie Neighborhood House<br />Pastor Carlos Chica; Shekina a las Naciones<br />Craig Chico; Executive Director, The Back of the Yards Neighborhood Council<br />Jahmal Cole; Founder, My Block My Hood My City<br />Malcolm Crawford; Executive Director, Austin African American Business Networking Association<br />Cardinal Blase Cupich; Archdiocese of Chicago<br />Pastor Wilfredo Dejesus; New Life Covenant Church<br />Jaime di Paulo Zozaya; Executive Director, Little Village Chamber of Commerce<br />Bishop Sally Dyck; Northern Illinois Conference of The United Methodist Church<br />Dr. Michael Eaddy; Pastor, People&rsquo;s Church of the Harvest<br />Alex Esparanza; Executive Director, 18th Street Development Corporation<br />Nedra Sims Fears; Executive Director, Greater Chatham Initiative<br />Leon Finney Jr; President, Woodlawn Community Development Corp<br />Sol Flores; Founder &amp; Executive Director, La Casa Norte<br />Mario Garcia; Executive Director, Onward Neighborhood House<br />Pastor Wayne Gordon; Lawndale Community Church<br />Brandon Green; Pastoral Director, River City Community Development Center<br />Pastor Darrel Griffin; Oakdale Covenant Church<br />Pastor Marshal Hatch; New Mount Pilgrim Missionary Baptist Church of West Garfield<br />Bishop William Hudson; The Power House<br />Pastor Bill Hybels; Willow Creek Community Church<br />Pastor Charles Jenkins; Fellowship Chicago<br />Melinda Kelly, Executive Director, Chatham Business Association<br />Pastor Shannon Kershner; Fourth Presbyterian Church<br />Abraham Lacy; Executive Director, Far South CDC<br />Juan Carlos Linares; Executive Director, LUCHA<br />Rabbi Steven Lowenstein; Am Shalom Temple <br />Jose Lopez; Executive Director, Puerto Rican Cultural Center<br />B. Herbert Martin; Senior Pastor, Progressive Community Church<br />Rhonda McFarland; Executive Director, Quad Communities Development Corporation<br />Reverend James Meeks; Salem Baptist Church<br />Johnny L. Miller; Pastor, Mt. Vernon Baptist Church, JLM Life Center<br />Dr. Otis Moss; Senior Pastor, Trinity United Church of Christ<br />Leonard Muhammad; Principal, The Shephard&rsquo;s Group<br />Rami Nashashibi; Executive Director, Inner-City Muslim Action Network<br />Cliff Nellis; Executive Director, Lawndale Christian Legal Center<br />Pastor Robert Patterson; Spirit of Truth Baptist Church<br />Jorge Perez; Executive Director, HACIA<br />Father Michael Pfleger; St. Sabina Church<br />Pastor Lou Ramos; Storehouse Church<br />Raul Raymundo; CEO, The Resurrection Project<br />Claude Robinson; Executive Vice President, UCAN<br />Rabbi Michael Siegel; Anshe Emet Synagogue<br />Bishop Horace E. Smith; Apostolic Faith Church<br />Juan Soto; Executive Director, Pilsen Neighbors Community Council<br />Ted Stalnos; President, Calumet Area Industrial Commission<br />Pastor Jarett Stevens; Soul City Church<br />Pastor Al Toledo; Chicago Tabernacle<br />Richard L. Tolliver, Ph.D.; President &amp; CEO, St. Edmunds Redevelopment Corp<br />Pastor Albert Tyson; Presiding Elder, North District, Chicago Annual Conference<br />Bishop John White; AME Church<br />Apostle Dr. Carl L White; Southland Ministerial Health Network, Victory Christian International <br />Pastor John Zayas; Grace and Peace Ministries</p>
+<p><strong>PHILANTHROPIC, CIVIC, NON-PROFIT</strong><br />Amy Rule; First Lady, City of Chicago<br />Sandra Abrevaya; President &amp; Chief Impact Officer, Thrive Chicago<br />Ellen Alberding; President, Joyce Foundation<br />Jeff Alexander; President, Symphony Orchestra<br />Leroy R. Allala; Executive Director, Chicago Sister Cities International<br />Haven Allen; Co-Founder &amp; Executive Director, mHub<br />Kara Bachman; Executive Director, Chicago Sports Commission<br />Greg Baise; President &amp; CEO, Illinois Manufacturers' Association<br />MarySue Barrett; President, Metropolitan Planning Council<br />Andres Beltran; Economic Development Coordinator, Kendall County<br />Jim Bennett; Chief Development Officer, Lambda Legal <br />David Bennett; Executive Director, Metropolitan Mayors Caucus <br />Kate Bensen; President &amp; CEO, The Chicago Network<br />Brenna Berman; Executive Director, City Digital, UI LABS <br />Erik Birkerts; CEO, Clean Energy Trust<br />Leslie Bluhm; Founder, Chicago Cares<br />Kam Buckner; Executive Director, World Sports Chicago<br />Emile Cambry Jr; Founder &amp; CEO, Blue 1647<br />Norman Carlson; Chairman, Metra<br />John Carpenter; President &amp; CEO, Choose DuPage<br />Gloria Castillo; President &amp; CEO, Chicago United<br />Robbin Cohen; Executive Director, Obama Foundation<br />Caralynn Nowinski Collens; CEO, UI LABS<br />Steven Collens; CEO, MATTER<br />James Compton; Former CEO, Chicago Urban League<br />John Conrad; Interim President &amp; CEO, Illinois Biotechnology Innovation Organization &amp; iBIO Institute<br />Kevin Considine; President &amp; CEO, Lake County Partners<br />Michael Cornicelli; Executive Vice President, BOMA Chicago <br />Benjamin Cox; President &amp; CEO, Friends of the Forest Preserves<br />Pam Cumpata; President, McHenry County EDC<br />Ivo H. Daalder; President, Chicago Council on Global Affairs<br />Leslie Darling; Executive Director, Chicago Infrastructure Trust<br />Gillian Darlow; CEO, Polk Bros Foundation<br />Steve DeBretto; Executive Director, Industrial Council of Nearwest Chicago<br />Evelyn Diaz; President, Heartland Alliance<br />Victor Dickson; President &amp; CEO, Safer Foundation<br />Kirk Dillard; Chairman, Regional Transportation Authority&nbsp;<br />Emilia DiMenco; President &amp; CEO, Women's Business Development Center<br />Wendy DuBoe; President &amp; CEO, United Way of Metropolitan Chicago <br />Omar Duque; President &amp; CEO, Illinois Hispanic Chamber of Commerce<br />Ana Dutra; President &amp; CEO, Executives&rsquo; Club of Chicago<br />Robert Escalante; Chief Operating Officer, Illinois Hispanic Chamber of Commerce<br />Ricardo Estrada; CEO, Metropolitan Family Services<br />Brian Fabes; CEO, Civic Consulting Alliance<br />Elizabeth Ferruelo; Grants &amp; Marketing Manager, i.c. stars<br />Scott Fetters; Director, 2112<br />Steve Frenkel; Executive Director, Current<br />Sherrell Fuller; Director of Client Development, Chicago Minority Supplier Development Council <br />Theaster Gates Jr.; Founder &amp; Executive Director, Rebuild Foundation<br />Helene Gayle; Incoming CEO, Chicago Community Trust<br />Jane Grover; Outreach Principal, Chicago Metropolitan Agency for Planning<br />John Grueling; President &amp; CEO, Will County Center for Economic Development<br />Mark Harris; President &amp; CEO, Illinois Science &amp; Technology Coalition<br />Meghan Harte; Executive Director, Chicago Local Initiatives Support Corporation<br />Monica Haslip; Executive Director, Little Black Pearl<br />Lori Healey; CEO, Metropolitan Pier &amp; Exposition Authority<br />Jason Henrichs; Co-Founder, FinTex Chicago<br />Adolfo Hernandez; Director, Community Health Initiative, Pritzker Foundation<br />David Hiller; President &amp; CEO, McCormick Foundation<br />Fred Hoch; Executive Chairman, Illinois Technology Association<br />Calvin Holmes; CEO, Chicago Community Loan Fund<br />Grace Hou; President, Woods Foundation Chicago<br />Tom Hulseman; Managing Director, Metro Chicago Exports<br />Kim L. Hunt; Executive Director, Pride Action Tank<br />Israel Idonije; Founder, Israel Idonije Foundation<br />Larry Ivory; Founder, President &amp; CEO, Illinois Black Chamber of Commerce<br />Michael Jasso; Bureau Chief, Cook County Bureau of Economic Development<br />Brian C. Johnson; CEO, Equality Illinois<br />Julia Kanouse; CEO, Illinois Technology Association<br />Rob Karr; President &amp; CEO, Illinois Retail Merchants Association<br />Michael Kelly; CEO &amp; Superintendent, Chicago Park District<br />Maria Kim; President &amp; CEO, The Cara Program<br />Thomas D. Kuczmarski; Founder &amp; President; Kuczmarski Innovation; Founder, Chicago Innovation<br />April Lane; Executive Director, Catapult Chicago<br />Dean Lane; Chair, Illinois Hotel and Lodging Association<br />Mark Lauer; Chair, Choose Chicago GM Advisory Committee<br />Phyllis Lockett; CEO, LEAP Innovations<br />Janice Lopez; Managing Director, Entrepreneurial Services; Director, Women's Business Development Center<br />Ann Lurie; President, Ann &amp; Robert H. Lurie Foundation<br />Marie Trzupek Lynch; President &amp; CEO, Skills for Chicagoland&rsquo;s Future<br />Todd Maisch; President &amp; CEO, Illinois Chamber of Commerce<br />Jessica Malkin; CEO, Chicago Ideas Week<br />Galen Mason; Co-Founder, Catapult<br />Terry Mazany; President &amp; CEO, Chicago Community Trust<br />Dorri McWhorter; CEO, YWCA Metropolitan Chicago<br />Michael J. Mini; EVP, Chicagoland Apartment Association<br />Cindy Moelis; President, Pritzker Traubert Foundation<br />Sheila Morgan; President &amp; CEO, Chicago Minority Supplier Development Council <br />Randal Muhammad; Vice President of Finance &amp; Administration, American Islamic College<br />David E. Munar; President &amp; CEO, Howard Brown Health<br />Kamau Murray; President &amp; CEO, XS Tennis<br />Jenne Myers; CEO, ChicagoCares<br />Steven B. Nasatir; President, Jewish United Fund <br />Karin Norington-Reaves; CEO, Chicago Cook Workforce Partnership<br />Katya Nuques; Executive Director, Enlace<br />Maura O'Hara; Executive Director, Illinois Venture Capital Association<br />Cristina Pacione-Zayas; Director of Policy, Erickson Institute<br />Brenda Langstraat Palm, CEO, Working In the Schools (WITS) <br />Dr. Hal M. Lewis; President and CEO, Spertus Institute for Jewish Learning and Leadership<br />Angelique Power; President, Field Foundation<br />Jorge Ramirez; President, Chicago Federation of Labor<br />Arnold Randall; Superintendent, Forest Preserves of Cook County<br />Michael Reever; Acting President &amp; CEO, Chicagoland Chamber of Commerce<br />Ahmed Rehab; Executive Director, CAIR Chicago<br />Karen Riley; Executive Director, Business Leadership Council<br />Desiree Rogers; Chair, Choose Chicago, Former CEO, Johnson Publishing Company<br />Celena Roldan; CEO, American Red Cross of Chicago and Northern Illinois<br />Robert Rose; Executive Director, Cook County Land Bank Authority<br />Shari Runner; President &amp; CEO, Chicago Urban League<br />Imani Rupert-Gordon; Executive Director, Affinity Community Services<br />Andrea Saenz; Chairwoman, Board of Directors, Instituto del Progreso<br />Jim Schultz; Former Chairman &amp; CEO, Intersect Illinois<br />Irene Sherr; Assistant Deputy Bureau Chief, Cook County Bureau of Economic Development<br />Rebecca Shi; Executive Director, Illinois Business Coalition for Immigration Reform<br />David Simas; CEO, Obama Foundation<br />Jim Slama; CEO, FamilyFarmed<br />Julia Stasch; President, MacArthur Foundation<br />Michael Strautmanis; VP of Civic Engagement, Obama Foundation<br />K. Sujata; President &amp; CEO, Chicago Foundation for Women (CFW)<br />Kathryn Sullivan; Chair, The Chicago Network <br />Joe Szabo; Executive Director, Chicago Metropolitan Agency for Planning<br />Luke Tanen; Executive Director, Chicago Innovation<br />Mark Tebbe; Chairman, ChicagoNEXT; Adjunct Professor of Entrepreneurship, University of Chicago<br />Glenn F. Tilton; Chairman, Chicago Council of Global Affairs<br />Sam Toia; President, Illinois Restaurant Association<br />William Towns; Executive Director, Benefit Chicago<br />Howard Tullman; CEO, 1871<br />Mark VanKerkhoff; Director, Kane County Development &amp; Community Services Department<br />Kelly R. Welsh; President, Commercial Club of Chicago<br />David Whitaker; President &amp; CEO, Choose Chicago<br />Sodiqa Williams; Associate Vice President, Policy and Strategy, Safer Foundation<br />Esther Wong; Executive Director; Chinese-American Service League <br />Maria Wynne; CEO, Leadership Greater Chicago<br />Donna Zarcone; President &amp; CEO, Economic Club of Chicago<br /><br /></p>
+<p style="text-align: center;">###</p>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+	
+
+
+<script type="text/javascript">
+
+</script>
+
+
+
+
+<h3></h3>
+
+
+<div>
+
+
+</div>
+<br/>
+
+
+
+
+
+    
+
+<div>
+
+
+</div>
+
+<br />
+
+<div style="clear:both"></div>
+
+
+
+			</div>
+		</div>
+	</div>		
+
+
+
+			
+						</div>
+					</div>
+				</div>
+                <!-- Footer -->
+
+                
+
+				<div class="container-fluid page-footer-container">
+					 <div class="row"> 
+						<div class="col-xs-12 page-footer">					
+								
+
+
+	
+
+
+ 
+<!-- footer -->
+<div id="footer">
+    <div class="footer-navigation">
+        <ul>
+            <li><a href="/city/en.html" title="The City of Chicago's Official Site">Home</a> : </li>
+            <li><!--googleoff: anchor--><a href="/city/en/general/disclaimer.html">Disclaimer</a><!--googleon: anchor--> : </li>
+            <li><!--googleoff: anchor--><a href="/city/en/general/privacy.html">Privacy Policy</a><!--googleon: anchor--> : </li>
+            <li><!--googleoff: anchor--><a href="/city/en/general/standards.html">Web Standards</a><!--googleon: anchor--> : </li>
+            <li><!--googleoff: anchor--><a href="/city/en/general/credits.html">Site Credits</a><!--googleon: anchor--> : </li>
+            <li><!--googleoff: anchor--><a href="/city/en/general/sitemap.html">Site Map</a><!--googleon: anchor--> : </li>
+            <li><!--googleoff: anchor--><a href="/city/en/general/contact.html">Contact Us</a><!--googleon: anchor--> : </li>
+            <li><!--googleoff: anchor--><a href="/content/city/en/depts/mayor/press_room.html">Press Room</a><!--googleon: anchor--> : </li>
+            <li><!--googleoff: anchor--><a target="blank" title="Website Feedback " href="https://www.surveymonkey.com/r/cocwebsitesurvey">Website Feedback</a><!--googleon: anchor--></li>
+        </ul>
+    </div> 
+     
+    <!-- /footer-navigation -->
+
+    Copyright &#169; 2010 - 2018 City of Chicago<br />
+
+    <br />
+    
+    <a href="/content/city/en.html" title="The City of Chicago's Official Site">
+        <img src="/etc/designs/city/images/seal.gif" width="65" height="65" title="The City of Chicago's Official Site" alt="The City of Chicago's Official Site"/>
+    </a>
+</div>
+
+						</div>
+					</div>
+				</div>								
+            </div>
+            <!-- /container -->
+
+		<button id="toTop" class="btn btn-default btn-lg"><i class="fa fa-chevron-up"></i></button>
+
+ 
+	<script>
+
+        $(document).ready(function() {
+			var qs = window.location.search;
+             var isRedirect = window.location.href.indexOf("redirect.html")>=0;
+
+            if(!isRedirect) {
+				return;
+            }
+
+            if(qs.indexOf("redirectTo")>=0) {
+				url = qs.split("=")[1];
+                setTimeout( function() {
+					window.location = url;
+                },5000);
+            }else {
+                window.location = "/city/en.html";
+            }
+
+
+        });
+    </script>
+
+ 	    
+
+        
+        
+            <!-- Google Analytics Snippet - start -->           
+            <script type="text/javascript">
+                var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+                document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+                try {
+                    var pageTracker = _gat._getTracker("UA-2412440-12");
+                    pageTracker._trackPageview();
+                } 
+                catch(err) {}
+            </script>
+            <!-- Google Analytics Snippet - end -->
+        
+        
+    </body>
+</html>

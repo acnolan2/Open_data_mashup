@@ -1,0 +1,10 @@
+To work on the command line and use pip and all the other fun stuff for this project, you'll need to activate the conda
+environment that works for this project. 
+
+source activate Open_data_mashup
+
+This will activate the conda env.
+
+Then you'll need to cd into your folder, Documents/PyCharmProjects/Open_data_mashup
+
+then jupyter notebooks as normal to launch that.
