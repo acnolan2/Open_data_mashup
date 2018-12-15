@@ -6,13 +6,16 @@ next(csv_f) # move past headers
 next(csv_f) # move past broken header thing that I don't understand where it came from
 # this will put the cursor at the start of line 3
 
-attendees1=[1]
+#attendees1=[1]
 
-string2= "52 lieutenants"
+#string2= "52 lieutenants"
 
+pr_list = []
 for row in csv_f:
     title = row[0]
     text = row[1]
     date = row[2]
+    pr_list.append(text)
 
+print(pr_list)
 f.close()
