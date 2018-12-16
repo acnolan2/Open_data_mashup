@@ -5,7 +5,7 @@ n_data = {} # This creates a dictionary object
 
 
 #Here, I open my press release dataset (w. unique identifiers), read it in, move past problematic headers, and (put all of them in a list?)
-f = open('output_testnewheader.csv')
+f = open('Intermediate_PR_dataset.csv')
 pr_text = csv.reader(f, delimiter=',', )
 next(pr_text) # move past headers
 next(pr_text) #move past headers
@@ -16,12 +16,12 @@ unemployment_data = csv.reader(f2, delimiter=',', )
 unemployment_list = [r for r in unemployment_data]
 
 
-f3 = open('Violent_crime_in_public_spaces_ChiHealthAtlas_Cleaned.csv')
+f3 = open('Violent_crime_in_public_spaces_ChiHealthAtlas.csv')
 crime_data = csv.reader(f3, delimiter=',', )
 crime_list = [r for r in crime_data]
 
 
-f4 = open('Medianincome_csv.csv')
+f4 = open('Medianincome_ChiHealthAtlas.csv')
 median_income_data = csv.reader(f4, delimiter=',', )
 median_income_list = [r for r in median_income_data]
 
@@ -100,7 +100,7 @@ with open('nhooddata.json', 'w') as fout:
 #n_data_parsed = json.loads()
 
 
-outputfile = open('AILEENSHUGETEST.csv', 'w')
+outputfile = open('Final_dataset.csv', 'w')
 csvwriter = csv.writer(outputfile)
 
 columnTitleRow = "std_name, geo_id, percent_unemployment, crime, median_income, appears, pr_id \n"

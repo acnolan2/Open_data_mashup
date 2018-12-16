@@ -17,7 +17,7 @@ import csv
 
 
 # names csv file, gives it headers
-filename = "testinoutput12132018.csv"
+filename = "Intermediate_PR_dataset.csv"
 f = open(filename, "w", encoding="utf-8")
 headers = "pr_id, title, body, date_published\n"
 f.write(headers)
