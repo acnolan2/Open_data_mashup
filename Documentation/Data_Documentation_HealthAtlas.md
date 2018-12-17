@@ -3,27 +3,32 @@ Documentation - Chicago Health Atlas Dataset
 ###Data Cleaning Assessment
 
 ######Description of Cleaning Needs
+This document discusses how three intermediate datasets were cleaned for use in my Open Data Mashup project. The three intermediate datasets are: 
 
-- Each Excel workbook will only require minimal hand cleaning. This will involve the deletion of rows and extraneous text like quotation marks. 
+"Median_household_income_ChiHealthAtlas.xlsx,"
+"Unemployment_ChiHealtAtlas.xlsx," and "Violent_crime_in_public_spaces_ChiHealthAtlas.xlsx."  
 
-PHASE 2 - Create the ChiHealthAtlas_dataset.csv
+Each of these files only required minimal hand cleaning including the deletion of rows and extraneous text like quotation marks. The specific details of how each dataset was cleaned is below.
 
-The next phase in this project is to create the files for the second dataset, ChiHealthAtlas_dataset. This requires hand cleaning which I will describe here for the original three ChiHealthAtlas data files. These three original files are called: "Median_household_income_ChiHealthAtlas.xlsx", "Unemployment_ChiHealtAtlas.xlsx", and "Violent_crime_in_public_spaces.xlsx." 
+Each of the three datasets below were downloaded from specific webpages on the Chicago Health Atlas Website. These websites are listed in this document under the data collection header. Using those raw files, the only cleaning I did on each file was as follows.
 
 "Median_household_income_ChiHealthAtlas.xlsx"
 
--Delete columns A, B, C, K-AA. 
--Delete rows 32-41, 119 - 272
+- Delete columns A, B, C, K-AA. 
+- Delete rows 32-41, 119 - 272
+- Removed hyphenation in Community Area name 
 
 "Unemployment_ChiHealtAtlas.xlsx"
 
--Delete columns A, B, K-R, T-AA
--Delete rows 44-57, 135-288
+- Delete columns A, B, K-R, T-AA
+- Delete rows 44-57, 135-288
+- Removed hyphenation in Community Area name 
 
 "Violent_crime_in_public_spaces.xlsx"
 
--Delete columns A, B, K-AA
--Delete rows 2-174
+- Delete columns A, B, K-AA
+- Delete rows 2-174
+- Removed hyphenation in Community Area name 
 
 ######Programs Required
 
@@ -54,15 +59,28 @@ The next phase in this project is to create the files for the second dataset, Ch
 
 ######Description of Data Collection
 
-- The data is freely available and downloaded from the Chicago Health Atlas website. Below I have provided the links of the webpages where I downloaded each of the three community health  
+The data is freely available and downloaded from the Chicago Health Atlas website. Below I have provided the links of the webpages where I downloaded each of the three community health indicators. On each of these pages the download button is located on the top right corner.  
+ 
+- Median Household Income: https://www.chicagohealthatlas.org/indicators/median-household-income
+- Unemployment Rate: https://www.chicagohealthatlas.org/indicators/unemployment
+- Crimes Committed in Public: https://www.chicagohealthatlas.org/indicators/violent-crime-in-public-spaces
 
 ######What do the 'Records' Represent?
 
-- Each record represents a City of Chicago neighborhood.
+- Each record represents a City of Chicago Community Area which is a common division of neighborhoods used for research and urban planning purposes.
 
 ######Dimension of Data
+"Median_household_income_ChiHealthAtlas.xlsx" <br>
+- Originally: 27 columns X 272 rows <br>
+- After cleaning: 3 columns X 78 rows
+ 
+"Unemployment_ChiHealtAtlas.xlsx" <br> 
+- Originally: 27 columns C 288 rows <br>
+- After cleaning: 3 columns X 78 rows
 
-- Unknown
+"Violent_crime_in_public_spaces_ChiHealthAtlas.xlsx" <br>
+- Originally: 27 columns X 603 rows <br>
+- After cleaning: 4 columns X 78 rows
 
 ######Data Types
 
@@ -72,21 +90,11 @@ The next phase in this project is to create the files for the second dataset, Ch
 
 ######Data Format
 
-- This will be likely a CSV file.
+- These files are all CSV files.
 
 ###Variables
 
-######Variable name: "Neighborhood"
-- This column is the name of a neighborhood in the City of Chicago 
-- Data type: String
-- Missing values: Unknown
-
-######Variable name: "Median Income"
-- This column represents the median income represented in the this neighborhood
-- Data type: String
-- Missing values: Unknown
-
-######Variable name: "Placehold"
-- Unknown
+######Variable name: "Number"
+- In each file this column name represents the health indicator of interest. It is either the amount of unemployment within subcategories of the population, it is the amount of crime committed within a neighborhood within a set period of time, or the median income of all residents.
 - Data type: String
 - Missing values: Unknown

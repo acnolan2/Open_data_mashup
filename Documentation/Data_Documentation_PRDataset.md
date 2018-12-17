@@ -4,20 +4,19 @@ PR Dataset - Documentation
 
 ######Description of Cleaning Needs
 
-- Once the data is webscraped, post-processing is required for the columns. In the web scraping script, all commas are replaced with pipes (|) and need to be re-replaced using another Python script, titled "__Addinlater__."  
+Once the data is webscraped, no post-processing is required for the columns though it would be helpful to have some. Since this is an intermediary dataset, however, this is not required. 
 
 ######Programs Required
 
 - Python
-- Open Refine (?)
 
 ######Time to Process File
 
-- 30-45 minutes
+- 5 minutes
 
 ###Authorship, Attribution, or Provenance
 
-- This data was extracted from the press office of the Mayor's Office in the City of Chicago. The press releases were extracted from this website https://www.cityofchicago.org/city/en/depts/mayor/press_room/press_releases.html on October 28, 2018 (?). This dataset was compilied by Aileen Nolan.
+- This data was extracted from the press office of the Mayor's Office in the City of Chicago. The press releases were extracted from this website https://www.cityofchicago.org/city/en/depts/mayor/press_room/press_releases.html on October 28, 2018. This dataset was compilied by Aileen Nolan.
 
 
 ###Semantic Contents
@@ -30,21 +29,22 @@ PR Dataset - Documentation
 
 ######Scripts used for Data Collection
 
-- "Add file name here" 
-- "Add file name here" 
+- "Webscraping_Script1_getstxtfiles.py" 
+	- Uses "2017urls.txt"
+- "Webscraping_Script2_usestxtfiles.py" 
  
 ######Description of Data Collection
 
-- The process used to collect this data includes, gathering the URLs into a .txt file titled "2017urls.txt." Then running the webscraping file titled "___", to extract out the data. Finally, another script is run to get a cleaned version of this dataset which is the final version, titled "Add title here." 
+- The process used to collect this data includes, gathering the URLs into a .txt file titled "2017urls.txt." Then running the two web scraping files mentioned above in succession to extract out the data.  
 
 ######What do the 'Records' Represent?
 
-Each row in this dataset represents one instance of a press release, published on a particular date. 
+Each row in this dataset represents one instance of a press release published on a particular date. 
 
 
 ######Dimension of Data
 
-- There are approximately 1000 rows of data for this dataset and 3 columns.
+- There are approximately 1003 rows of data for this dataset and 4 columns.
 
 ######Data Types
 
@@ -58,6 +58,9 @@ Each row in this dataset represents one instance of a press release, published o
 - CSV file
 
 ###Variables
+
+######Variable name: "pr_id"
+- This is a unique identifier for each press release which corresponds with the incrementing number used in the file name for each webscraped press release.
 
 ######Variable name: "Title"
 
